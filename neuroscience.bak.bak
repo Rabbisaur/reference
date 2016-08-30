@@ -1,0 +1,2404 @@
+% This file was created with JabRef 2.7b.
+% Encoding: UTF-8
+
+@ARTICLE{Arieli1996,
+  author = {A. Arieli and A. Sterkin and A. Grinvald and A. Aertsen},
+  title = {Dynamics of ongoing activity: explanation of the large variability
+	in evoked cortical responses.},
+  journal = {Science},
+  year = {1996},
+  volume = {273},
+  pages = {1868--1871},
+  number = {5283},
+  month = {Sep},
+  abstract = {Evoked activity in the mammalian cortex and the resulting behavioral
+	responses exhibit a large variability to repeated presentations of
+	the same stimulus. This study examined whether the variability can
+	be attributed to ongoing activity. Ongoing and evoked spatiotemporal
+	activity patterns in the cat visual cortex were measured with real-time
+	optical imaging; local field potentials and discharges of single
+	neurons were recorded simultaneously, by electrophysiological techniques.
+	The evoked activity appeared deterministic, and the variability resulted
+	from the dynamics of ongoing activity, presumably reflecting the
+	instantaneous state of cortical networks. In spite of the large variability,
+	evoked responses in single trials could be predicted by linear summation
+	of the deterministic response and the preceding ongoing activity.
+	Ongoing activity must play an important role in cortical function
+	and cannot be ignored in exploration of cognitive processes.},
+  file = {Arieli1996.pdf:Arieli1996.pdf:PDF},
+  institution = {Department of Neurobiology, Weizmann Institute of Science, Post Office
+	Box 26, Rehovot 76100, Israel.},
+  keywords = {Animals; Cats; Evoked Potentials, Visual; Membrane Potentials; Neurons,
+	physiology; Photic Stimulation; Signal Processing, Computer-Assisted;
+	Visual Cortex, physiology; Visual Pathways, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {8791593},
+  timestamp = {2011.11.28}
+}
+
+@ARTICLE{Attwell2001,
+  author = {D. Attwell and S. B. Laughlin},
+  title = {An energy budget for signaling in the grey matter of the brain.},
+  journal = {J Cereb Blood Flow Metab},
+  year = {2001},
+  volume = {21},
+  pages = {1133--1145},
+  number = {10},
+  month = {Oct},
+  abstract = {Anatomic and physiologic data are used to analyze the energy expenditure
+	on different components of excitatory signaling in the grey matter
+	of rodent brain. Action potentials and postsynaptic effects of glutamate
+	are predicted to consume much of the energy (47\% and 34\%, respectively),
+	with the resting potential consuming a smaller amount (13\%), and
+	glutamate recycling using only 3\%. Energy usage depends strongly
+	on action potential rate--an increase in activity of 1 action potential/cortical
+	neuron/s will raise oxygen consumption by 145 mL/100 g grey matter/h.
+	The energy expended on signaling is a large fraction of the total
+	energy used by the brain; this favors the use of energy efficient
+	neural codes and wiring patterns. Our estimates of energy usage predict
+	the use of distributed codes, with <or=15\% of neurons simultaneously
+	active, to reduce energy consumption and allow greater computing
+	power from a fixed number of neurons. Functional magnetic resonance
+	imaging signals are likely to be dominated by changes in energy usage
+	associated with synaptic currents and action potential propagation.},
+  doi = {10.1097/00004647-200110000-00001},
+  file = {Attwell2001.pdf:Attwell2001.pdf:PDF},
+  institution = {Department of Physiology, University College London, London, UK.},
+  keywords = {Action Potentials, physiology; Animals; Brain, physiology; Energy
+	Metabolism; Humans; Magnetic Resonance Imaging; Membrane Potentials,
+	physiology; Neurons, physiology; Signal Transduction, physiology;
+	Synapses, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {11598490},
+  timestamp = {2011.11.15},
+  url = {http://dx.doi.org/10.1097/00004647-200110000-00001}
+}
+
+@ARTICLE{Barbot2011,
+  author = {Antoine Barbot and Michael S Landy and Marisa Carrasco},
+  title = {Exogenous attention enhances 2nd-order contrast sensitivity.},
+  journal = {Vision Res},
+  year = {2011},
+  volume = {51},
+  pages = {1086--1098},
+  number = {9},
+  month = {May},
+  abstract = {Natural scenes contain a rich variety of contours that the visual
+	system extracts to segregate the retinal image into perceptually
+	coherent regions. Covert spatial attention helps extract contours
+	by enhancing contrast sensitivity for 1st-order, luminance-defined
+	patterns at attended locations, while reducing sensitivity at unattended
+	locations, relative to neutral attention allocation. However, humans
+	are also sensitive to 2nd-order patterns such as spatial variations
+	of texture, which are predominant in natural scenes and cannot be
+	detected by linear mechanisms. We assess whether and how exogenous
+	attention--the involuntary and transient capture of spatial attention--affects
+	the contrast sensitivity of channels sensitive to 2nd-order, texture-defined
+	patterns. Using 2nd-order, texture-defined stimuli, we demonstrate
+	that exogenous attention increases 2nd-order contrast sensitivity
+	at the attended location, while decreasing it at unattended locations,
+	relative to a neutral condition. By manipulating both 1st- and 2nd-order
+	spatial frequency, we find that the effects of attention depend both
+	on 2nd-order spatial frequency of the stimulus and the observer's
+	2nd-order spatial resolution at the target location. At parafoveal
+	locations, attention enhances 2nd-order contrast sensitivity to high,
+	but not to low 2nd-order spatial frequencies; at peripheral locations
+	attention also enhances sensitivity to low 2nd-order spatial frequencies.
+	Control experiments rule out the possibility that these effects might
+	be due to an increase in contrast sensitivity at the 1st-order stage
+	of visual processing. Thus, exogenous attention affects 2nd-order
+	contrast sensitivity at both attended and unattended locations.},
+  doi = {10.1016/j.visres.2011.02.022},
+  file = {Barbot2011.pdf:Barbot2011.pdf:PDF},
+  institution = {Department of Psychology, New York University, New York, NY 10003,
+	United States. antoine.barbot@nyu.edu},
+  keywords = {Analysis of Variance; Attention, physiology; Contrast Sensitivity,
+	physiology; Cues; Discrimination (Psychology), physiology; Humans;
+	Pattern Recognition, Visual, physiology; Rotation; Visual Fields,
+	physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0042-6989(11)00072-1},
+  pmid = {21356228},
+  timestamp = {2011.12.20},
+  url = {http://dx.doi.org/10.1016/j.visres.2011.02.022}
+}
+
+@ARTICLE{Barlow1972,
+  author = {H. B. Barlow},
+  title = {Single units and sensation: a neuron doctrine for perceptual psychology?},
+  journal = {Perception},
+  year = {1972},
+  volume = {1},
+  pages = {371--394},
+  number = {4},
+  file = {Barlow1972.pdf:Barlow1972.pdf:PDF},
+  keywords = {Adaptation, Physiological; Animals; Cats; Cerebral Cortex, physiology;
+	Color Perception, physiology; Electroencephalography; Haplorhini;
+	Humans; Information Theory; Models, Neurological; Neural Conduction;
+	Neural Inhibition; Neurons, physiology; Perception, physiology; Psychophysics;
+	Sensation, physiology; Synaptic Transmission; Touch, physiology;
+	Visual Cortex, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {4377168},
+  timestamp = {2011.11.16}
+}
+
+@ARTICLE{Basile2006,
+  author = {Luis F H Basile and Enzo P Brunetti and José F Pereira and Gerson
+	Ballester and Edson Amaro and Renato Anghinah and Pedro Ribeiro and
+	Roberto Piedade and Wagner F Gattaz},
+  title = {Complex slow potential generators in a simplified attention paradigm.},
+  journal = {Int J Psychophysiol},
+  year = {2006},
+  volume = {61},
+  pages = {149--157},
+  number = {2},
+  month = {Aug},
+  abstract = {We have recently obtained evidence for complex multifocal, individually
+	variable generators of slow cortical potentials, elicited during
+	performance of visual tasks involving expecting attention, comparison
+	and memory [Basile, L.F.H., Ballester, G., Castro, C.C., and Gattaz,
+	W.F., 2002. Multifocal slow potential generators revealed by high-resolution
+	EEG and current density reconstruction. Int. J. Psychophysiol., 45
+	(3), 227-240; Basile, L.F.H, Baldo, M.V., Castro, C.C., and Gattaz,
+	W.F. 2003. The generators of slow potentials obtained during verbal,
+	pictorial and spatial tasks. Int. J. Psychophysiol., 48, 55-65].
+	The cue-target aspect of traditional paradigms for attention studies
+	is equivalent to 'warning S1'-'imperative S2' in slow potential designs.
+	We simplified Posner's spatial cueing task [Posner, M.I. 1980. Orienting
+	of attention.Q. J. Exp. Psychol. Feb;32 (1), 3-25; Posner, M.I.,
+	Snyder, C.R., Davidson, B.J. 1980. Attention and the detection of
+	signals. J Exp Psychol. Jun; 109 (2), 160-174] to temporal cuing
+	only, by using visual cues to indicate the mere presence, on a known
+	central position, of the eventual target (17 ms duration, +/-0.3
+	degrees grey circle). We recorded slow potentials on 12 healthy subjects,
+	by 124-channel EEG system (Neuroscan Inc.), and modeled their generators
+	using current density reconstruction (CDR) by L(p) 1.2 norm minimization
+	("Curry V4.6", Neurosoft Inc.) applied to the target onset time.
+	MRIs were obtained for each subject for constraining source models
+	to individual brain anatomy. Average slow potentials were computed
+	from above 60 artifact-free EEG-epochs (ISI=1.6 s, average ITI=2.5
+	s). We tabulated individual cortical current distributions by cytoarchitectonic
+	area of Brodmann, after scaling into negligible, low, moderate and
+	strong local density, based on percentile bands with respect to absolute
+	maximum current. Despite the task's simplicity, the main result was
+	individual variability and complexity in both scalp voltage and cortical
+	current distributions. As observed in our previous studies, there
+	was strong intersubject variability in the exact distribution of
+	task-related cortical activity. Only parietal area 7 bilaterally
+	was non-negligibly active in all subjects (currents above 10\% maximum).
+	As opposed to drawing conclusions based on group averaged data, we
+	propose that activity by cytoarchitectonic area be ranked and statistically
+	analysed only after being scaled on each individual. Based on the
+	present results, the concept of a universal attention-related set
+	of cortical areas if restricted to common areas across subjects is
+	challenged, since even area 7 may no longer be common when the sample
+	size becomes larger. We discuss the fact that group averaging may
+	de-emphasize weakly but consistently active areas, and emphasize
+	strongly but inconsistently active ones.},
+  doi = {10.1016/j.ijpsycho.2005.09.004},
+  institution = {Department of Psychiatry, Faculty of Medicine, University of São
+	Paulo, Brazil. lbasile@usp.br},
+  keywords = {Adult; Attention, physiology; Brain Mapping; Cerebral Cortex, physiology;
+	Dominance, Cerebral, physiology; Electroencephalography; Female;
+	Humans; Image Processing, Computer-Assisted; Imaging, Three-Dimensional;
+	Individuality; Magnetic Resonance Imaging; Male; Mental Recall, physiology;
+	Orientation, physiology; Pattern Recognition, Visual, physiology;
+	Probability Learning; Psychomotor Performance, physiology; Set (Psychology);
+	Signal Processing, Computer-Assisted},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0167-8760(05)00234-5},
+  pmid = {16313987},
+  timestamp = {2011.12.20},
+  url = {http://dx.doi.org/10.1016/j.ijpsycho.2005.09.004}
+}
+
+@ARTICLE{Bavelier2011,
+  author = {Daphne Bavelier and C. Shawn Green and Doug Hyun Han and Perry F
+	Renshaw and Michael M Merzenich and Douglas A Gentile},
+  title = {Brains on video games.},
+  journal = {Nat Rev Neurosci},
+  year = {2011},
+  volume = {12},
+  pages = {763--768},
+  number = {12},
+  abstract = {The popular press is replete with stories about the effects of video
+	and computer games on the brain. Sensationalist headlines claiming
+	that video games 'damage the brain' or 'boost brain power' do not
+	do justice to the complexities and limitations of the studies involved,
+	and create a confusing overall picture about the effects of gaming
+	on the brain. Here, six experts in the field shed light on our current
+	understanding of the positive and negative ways in which playing
+	video games can affect cognition and behaviour, and explain how this
+	knowledge can be harnessed for educational and rehabilitation purposes.
+	As research in this area is still in its early days, the contributors
+	of this Viewpoint also discuss several issues and challenges that
+	should be addressed to move the field forward.},
+  doi = {10.1038/nrn3135},
+  institution = { Cognitive Sciences, University of Rochester, Rochester, New York
+	14627, USA.},
+  language = {eng},
+  medline-pst = {epublish},
+  owner = {wang},
+  pii = {nrn3135},
+  pmid = {22095065},
+  timestamp = {2011.11.24},
+  url = {http://dx.doi.org/10.1038/nrn3135}
+}
+
+@ARTICLE{Berkes2011,
+  author = {Pietro Berkes and Gergo Orbán and Máté Lengyel and József Fiser},
+  title = {Spontaneous cortical activity reveals hallmarks of an optimal internal
+	model of the environment.},
+  journal = {Science},
+  year = {2011},
+  volume = {331},
+  pages = {83--87},
+  number = {6013},
+  month = {Jan},
+  abstract = {The brain maintains internal models of its environment to interpret
+	sensory inputs and to prepare actions. Although behavioral studies
+	have demonstrated that these internal models are optimally adapted
+	to the statistics of the environment, the neural underpinning of
+	this adaptation is unknown. Using a Bayesian model of sensory cortical
+	processing, we related stimulus-evoked and spontaneous neural activities
+	to inferences and prior expectations in an internal model and predicted
+	that they should match if the model is statistically optimal. To
+	test this prediction, we analyzed visual cortical activity of awake
+	ferrets during development. Similarity between spontaneous and evoked
+	activities increased with age and was specific to responses evoked
+	by natural scenes. This demonstrates the progressive adaptation of
+	internal models to the statistics of natural stimuli at the neural
+	level.},
+  doi = {10.1126/science.1195870},
+  file = {Berkes2011.pdf:Berkes2011.pdf:PDF},
+  institution = {Volen National Center for Complex Systems, Brandeis University, Waltham,
+	MA 02454, USA. berkes@brandeis.edu},
+  keywords = {Action Potentials; Adaptation, Physiological; Aging; Animals; Bayes
+	Theorem; Darkness; Electrodes, Implanted; Evoked Potentials, Visual;
+	Ferrets; Models, Neurological; Neurons, physiology; Photic Stimulation;
+	Visual Cortex, growth /&/ development/physiology; Visual Perception},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {331/6013/83},
+  pmid = {21212356},
+  timestamp = {2011.11.28},
+  url = {http://dx.doi.org/10.1126/science.1195870}
+}
+
+@ARTICLE{Bowman1993,
+  author = {E. M. Bowman and V. J. Brown and C. Kertzman and U. Schwarz and D.
+	L. Robinson},
+  title = {Covert orienting of attention in macaques. I. Effects of behavioral
+	context.},
+  journal = {J Neurophysiol},
+  year = {1993},
+  volume = {70},
+  pages = {431--443},
+  number = {1},
+  month = {Jul},
+  abstract = {1. A task was used by Posner (1980) to measure shifts of attention
+	that occurred covertly, in the absence of an eye movement or other
+	orienting response. This paradigm was used here to assess the nature
+	of covert attentional orienting in monkeys to develop an animal model
+	for neurophysiological studies. Shifts of attention were measurable
+	in monkeys and were consistent across a variety of experimental conditions.
+	2. The paradigm required that monkeys fixate and release a bar at
+	the appearance of a target, which was preceded by a cue. Reaction
+	times to targets that followed peripheral cues at the same location
+	(validly cued) were significantly faster than those that followed
+	cues in the opposite visual field (invalidly cued). This difference
+	was defined as the validity effect, which as in humans, is used as
+	the measure of a covert attentional shift. 3. When the proportion
+	of validly to invalidly cued targets was decreased, no change was
+	seen in the validity effect of the monkeys. This is in contrast to
+	humans, for whom the ratio of validly to invalidly cued targets affected
+	the magnitude of the validity effect. When 80\% of the targets were
+	preceded by cues at the same location, the validity effect was greatest.
+	The effect was reversed when the proportions were reversed. From
+	this result, it is concluded that cognitive processes can affect
+	covert orienting to peripheral cues in humans, whereas in trained
+	monkeys, performance was automatic. 4. To test whether cognitive
+	influences on attention could be demonstrated in the monkey, an animal
+	was taught to use symbolic, foveal signals to covertly direct attention.
+	The magnitude of this validity effect was greater than that obtained
+	with peripheral cues. 5. The effects of motivational and perceptual
+	processes were tested. Although overall reaction times could be modified,
+	the facilitating effects of the cues persisted. This constancy across
+	motivational and perceptual levels supports the notion that the monkeys
+	were performing the task in an automatic way, under the exogenous
+	control of peripheral cues. 6. Most visual cuing has been tested
+	with visual landmarks at the locations of cues and targets. These
+	monkeys were trained with such landmarks, and when tested without
+	them, the attentional effect of the cues was nearly abolished. These
+	data suggest that local visual features can be important for covert
+	orienting. 7. To determine the spatial extent of the effect of the
+	cue, monkeys and humans were tested with four cue-target distances
+	(0-60 degrees).(ABSTRACT TRUNCATED AT 400 WORDS)},
+  institution = {Section on Visual Behavior, National Eye Institute, National Institutes
+	of Health, Bethesda, Maryland 20892.},
+  keywords = {Adult; Animals; Appetitive Behavior; Arousal; Attention; Cues; Female;
+	Humans; Macaca mulatta, psychology; Male; Motivation; Orientation;
+	Psychomotor Performance; Reaction Time; Species Specificity},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {8360720},
+  timestamp = {2011.12.20}
+}
+
+@ARTICLE{Busse2008,
+  author = {Laura Busse and Steffen Katzner and Stefan Treue},
+  title = {Temporal dynamics of neuronal modulation during exogenous and endogenous
+	shifts of visual attention in macaque area MT.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2008},
+  volume = {105},
+  pages = {16380--16385},
+  number = {42},
+  month = {Oct},
+  abstract = {Dynamically shifting attention between behaviorally relevant stimuli
+	in the environment is a key condition for successful adaptive behavior.
+	Here, we investigated how exogenous (reflexive) and endogenous (voluntary)
+	shifts of visual spatial attention interact to modulate activity
+	of single neurons in extrastriate area MT. We used a double-cueing
+	paradigm, in which the first cue instructed two macaque monkeys to
+	covertly attend to one of three moving random dot patterns until
+	a second cue, whose unpredictable onset exogenously captured attention,
+	either signaled to shift or maintain the current focus of attention.
+	The neuronal activity revealed correlates of both exogenous and endogenous
+	attention, which could be well distinguished by their characteristic
+	temporal dynamics. The earliest effect was a transient interruption
+	of the focus of endogenous attention by the onset of the second cue.
+	The neuronal signature of this exogenous capture of attention was
+	a short-latency decrease of responses to the stimulus attended so
+	far. About 70 ms later, the influence of exogenous attention leveled
+	off, which was reflected in two concurrent processes: responses to
+	the newly cued stimulus continuously increased because of allocation
+	of endogenous attention, while, surprisingly, there was also a gradual
+	rebound of attentional enhancement of the previously relevant stimulus.
+	Only after an additional 110 ms did endogenous disengagement of attention
+	from this previously relevant stimulus become evident. These patterns
+	of attentional modulation can be most parsimoniously explained by
+	assuming two distinct attentional mechanisms drawing on the same
+	capacity-limited system, with exogenous attention having a much faster
+	time course than endogenous attention.},
+  doi = {10.1073/pnas.0707369105},
+  file = {Busse2008.pdf:Busse2008.pdf:PDF},
+  institution = {Cognitive Neuroscience Laboratory, German Primate Center, Kellnerweg
+	4, 37077 Göttingen, Germany.},
+  keywords = {Animals; Attention, physiology; Behavior, Animal, physiology; Macaca,
+	physiology/psychology; Neurons, physiology; Time Factors; Vision,
+	Ocular, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {0707369105},
+  pmid = {18922778},
+  timestamp = {2011.12.01},
+  url = {http://dx.doi.org/10.1073/pnas.0707369105}
+}
+
+@ARTICLE{Chen2010,
+  author = {Juan Chen and Tiangang Zhou and Hua Yang and Fang Fang},
+  title = {Cortical dynamics underlying face completion in human visual system.},
+  journal = {J Neurosci},
+  year = {2010},
+  volume = {30},
+  pages = {16692--16698},
+  number = {49},
+  month = {Dec},
+  __markedentry = {[wang:6]},
+  abstract = {In natural images, visual objects are typically occluded by other
+	objects. A remarkable ability of our visual system is to complete
+	occluded objects effortlessly and see whole, uninterrupted objects.
+	How object completion is implemented in the visual system is still
+	largely unknown. In this study, using a backward masking paradigm,
+	we combined psychophysics and functional magnetic resonance imaging
+	to investigate the temporal evolvement of face completion at different
+	levels of the visual processing hierarchy. Human subjects were presented
+	with two kinds of stimuli that were designed to elicit or not elicit
+	the percept of a completed face, although they were physically very
+	similar. By contrasting subjects' behavioral and blood oxygenation
+	level-dependent (BOLD) responses to completed and noncompleted faces,
+	we measured the psychophysical time course of the face completion
+	and its underlying cortical dynamics. We found that face completion
+	manifested its effect between 50 and 250 ms after stimulus onset.
+	Relative to noncompleted faces, completed faces induced weaker BOLD
+	response at early processing phases in retinotopic visual areas V1
+	and V2 and stronger BOLD response at late processing phases in occipital
+	face area and fusiform face area. Attending away from the stimuli
+	largely abolished these effects. These findings suggest that face
+	completion consists of two synergetic phases: early suppression in
+	lower visual areas and late enhancement in higher visual areas; moreover,
+	attention is necessary to these neural events.},
+  doi = {10.1523/JNEUROSCI.3578-10.2010},
+  file = {Chen2010.pdf:Chen2010.pdf:PDF},
+  institution = {Department of Psychology and Key Laboratory of Machine Perception
+	(Ministry of Education), Peking University, Beijing 100871, People's
+	Republic of China.},
+  keywords = {Adult; Analysis of Variance; Brain Mapping; Face; Female; Humans;
+	Image Processing, Computer-Assisted, methods; Magnetic Resonance
+	Imaging, methods; Male; Models, Neurological; Nonlinear Dynamics;
+	Oxygen, blood; Pattern Recognition, Visual, physiology; Photic Stimulation,
+	methods; Psychophysics; Statistics as Topic; Time Factors; Visual
+	Cortex, blood supply/physiology; Visual Pathways, blood supply/physiology;
+	Young Adult},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {30/49/16692},
+  pmid = {21148008},
+  timestamp = {2012.01.09},
+  url = {http://dx.doi.org/10.1523/JNEUROSCI.3578-10.2010}
+}
+
+@ARTICLE{Duncan1980,
+  author = {J. Duncan},
+  title = {The locus of interference in the perception of simultaneous stimuli.},
+  journal = {Psychol Rev},
+  year = {1980},
+  volume = {87},
+  pages = {272--300},
+  number = {3},
+  month = {May},
+  keywords = {Attention; Auditory Perception; Discrimination Learning; Humans; Visual
+	Perception},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {7384344},
+  timestamp = {2011.12.05}
+}
+
+@ARTICLE{Eckstein2002,
+  author = {Miguel P Eckstein and Steven S Shimozaki and Craig K Abbey},
+  title = {The footprints of visual attention in the Posner cueing paradigm
+	revealed by classification images.},
+  journal = {J Vis},
+  year = {2002},
+  volume = {2},
+  pages = {25--45},
+  number = {1},
+  abstract = {In the Posner cueing paradigm, observers' performance in detecting
+	a target is typically better in trials in which the target is present
+	at the cued location than in trials in which the target appears at
+	the uncued location. This effect can be explained in terms of a Bayesian
+	observer where visual attention simply weights the information differently
+	at the cued (attended) and uncued (unattended) locations without
+	a change in the quality of processing at each location. Alternatively,
+	it could also be explained in terms of visual attention changing
+	the shape of the perceptual filter at the cued location. In this
+	study, we use the classification image technique to compare the human
+	perceptual filters at the cued and uncued locations in a contrast
+	discrimination task. We did not find statistically significant differences
+	between the shapes of the inferred perceptual filters across the
+	two locations, nor did the observed differences account for the measured
+	cueing effects in human observers. Instead, we found a difference
+	in the magnitude of the classification images, supporting the idea
+	that visual attention changes the weighting of information at the
+	cued and uncued location, but does not change the quality of processing
+	at each individual location.},
+  doi = {10:1167/2.1.3},
+  file = {Eckstein2002.pdf:Eckstein2002.pdf:PDF},
+  institution = {U CA, Sanata Barbara},
+  keywords = {Attention; Choice Behavior; Computer Simulation; Decision Theory;
+	Humans; Image Enhancement, methods; Linear Models; Models, Biological;
+	Monte Carlo Method; Observer Variation; Pattern Recognition, Visual,
+	physiology; Quality Control; Signal Detection, Psychological; Statistics
+	as Topic; Visual Perception, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {/2/1/3/},
+  pmid = {12678595},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10:1167/2.1.3}
+}
+
+@ARTICLE{Economides2011,
+  author = {John R Economides and Lawrence C Sincich and Daniel L Adams and Jonathan
+	C Horton},
+  title = {Orientation tuning of cytochrome oxidase patches in macaque primary
+	visual cortex.},
+  journal = {Nat Neurosci},
+  year = {2011},
+  volume = {14},
+  pages = {1574--1580},
+  number = {12},
+  abstract = {The abundant concentration of cytochrome oxidase in patches or blobs
+	of primate striate cortex has never been explained. Patches are thought
+	to contain unoriented, color-opponent neurons. Lacking orientation
+	selectivity, these cells might endow patches with high metabolic
+	activity because they respond to all contours in visual scenes. To
+	test this idea, we measured orientation tuning in layer 2/3 of macaque
+	cortical area V1 using acutely implanted 100-electrode arrays. Each
+	electrode recording site was identified and assigned to the patch
+	or interpatch compartment. The mean orientation bandwidth of cells
+	was 28.4° in patches and 25.8° in interpatches. Neurons in patches
+	were indeed less orientation selective, but the difference was subtle,
+	indicating that the processing of form and color is not strictly
+	segregated in V1. The most conspicuous finding was that patch cells
+	had a 49\% greater overall firing rate. This global difference in
+	neuronal responsiveness, rather than an absence of orientation tuning,
+	may account for the rich mitochondrial enzyme activity that defines
+	patches.},
+  doi = {10.1038/nn.2958},
+  institution = {.},
+  language = {eng},
+  medline-pst = {epublish},
+  owner = {wang},
+  pii = {nn.2958},
+  pmid = {22057193},
+  timestamp = {2011.12.05},
+  url = {http://dx.doi.org/10.1038/nn.2958}
+}
+
+@ARTICLE{Egeth1997,
+  author = {H. E. Egeth and S. Yantis},
+  title = {Visual attention: control, representation, and time course.},
+  journal = {Annu Rev Psychol},
+  year = {1997},
+  volume = {48},
+  pages = {269--297},
+  abstract = {Three central problems in the recent literature on visual attention
+	are reviewed. The first concerns the control of attention by top-down
+	(or goal-directed) and bottom-up (or stimulus-driven) processes.
+	The second concerns the representational basis for visual selection,
+	including how much attention can be said to be location- or object-based.
+	Finally, we consider the time course of attention as it is directed
+	to one stimulus after another.},
+  doi = {10.1146/annurev.psych.48.1.269},
+  file = {Egeth1997.pdf:Egeth1997.pdf:PDF},
+  institution = {Department of Psychology, Johns Hopkins University, Baltimore, Maryland
+	21218, USA.},
+  keywords = {Attention; Discrimination Learning; Humans; Orientation; Reaction
+	Time; Visual Perception},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {9046562},
+  timestamp = {2011.11.18},
+  url = {http://dx.doi.org/10.1146/annurev.psych.48.1.269}
+}
+
+@ARTICLE{Fecteau2004f,
+  author = {Jillian H Fecteau and Andrew H Bell and Douglas P Munoz},
+  title = {Neural correlates of the automatic and goal-driven biases in orienting
+	spatial attention.},
+  journal = {J Neurophysiol},
+  year = {2004},
+  volume = {92},
+  pages = {1728--1737},
+  number = {3},
+  month = {Sep},
+  abstract = {How do stimuli in the environment interact with the goals of observers?
+	We addressed this question by showing that the relevance of an abruptly
+	appearing visual object (cue) changes how observers orient attention
+	toward a subsequent object (target) and how this target is represented
+	in the activity of neurons in the superior colliculus. Initially
+	after the appearance of the cue, attention is driven to its locus.
+	This capture of attention is followed by a second bias in orienting
+	attention, where observers preferentially orient to new locations
+	in the visual scene-an effect called inhibition of return. In the
+	superior colliculus, these two automatic biases in orienting attention
+	were associated with changes in neural activity linked to the appearance
+	of the target-relatively stronger activity linked to the capture
+	of attention and weaker activity linked to inhibition of return.
+	This behavioral pattern changes when the cue predicts the upcoming
+	location of the target-the benefit associated with the capture of
+	attention is enhanced and inhibition of return is reduced. These
+	goal-driven changes in behavior were associated with an increase
+	in pretarget- and target-related activity. Taken together, the goals
+	of observers modify stimulus-driven changes in neural activity with
+	both signals represented in the salience maps of the superior colliculi.},
+  doi = {10.1152/jn.00184.2004},
+  file = {:FecteauMunoz2004.pdf:PDF},
+  institution = {Center for Neuroscience Studies, Department of Physiology, Queen's
+	University, 4th Floor, Botterell Hall, Kingston, Ontario K7L 3N6,
+	Canada. doug@eyeml.queensu.ca},
+  keywords = {Action Potentials, physiology; Animals; Attention, physiology; Cues;
+	Goals; Macaca mulatta; Male; Neurons, physiology; Orientation, physiology;
+	Photic Stimulation, methods; Saccades, physiology; Superior Colliculi,
+	physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {00184.2004},
+  pmid = {15115792},
+  timestamp = {2011.11.18},
+  url = {http://dx.doi.org/10.1152/jn.00184.2004}
+}
+
+@ARTICLE{Fecteau2005,
+  author = {Jillian H Fecteau and Douglas P Munoz},
+  title = {Correlates of capture of attention and inhibition of return across
+	stages of visual processing.},
+  journal = {J Cogn Neurosci},
+  year = {2005},
+  volume = {17},
+  pages = {1714--1727},
+  number = {11},
+  month = {Nov},
+  abstract = {How do visual signals evolve from early to late stages in sensory
+	processing? We explored this question by examining two neural correlates
+	of spatial attention. The capture of attention and inhibition of
+	return refer to the initial advantage and subsequent disadvantage
+	to respond to a visual target that follows an irrelevant visual cue
+	at the same location. In the intermediate layers of the superior
+	colliculus (a region that receives input from late stages in visual
+	processing), both behavioral effects link to changes in the neural
+	representation of the target: strong target-related activity correlates
+	with the capture of attention and weak target-related activity correlates
+	with inhibition of return. Contrasting these correlates with those
+	obtained in the superficial layers (a functionally distinct region
+	that receives input from early stages in visual processing), we show
+	that the target-related activity of neurons in the intermediate layers
+	was the best predictor of orienting behavior, although dramatic changes
+	in the target-related response were observed in both subregions.
+	We describe the important consequences of these findings for understanding
+	the neural basis of the capture of attention and inhibition of return
+	and interpreting changes in neural activity more generally.},
+  doi = {10.1162/089892905774589235},
+  file = {:FecteauMunoz2005.pdf:PDF},
+  institution = {Queen's University, Kingston, Ontario, Canada. j.fecteau@ioi.knaw.nl},
+  keywords = {Action Potentials, physiology; Animals; Attention, physiology; Cues;
+	Inhibition (Psychology); Macaca mulatta; Male; Neurons, physiology;
+	Orientation, physiology; Photic Stimulation, methods; Reaction Time,
+	physiology; Space Perception, physiology; Superior Colliculi, cytology;
+	Time Factors; Visual Perception, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {16269108},
+  timestamp = {2011.11.18},
+  url = {http://dx.doi.org/10.1162/089892905774589235}
+}
+
+@ARTICLE{Fletcher2007,
+  author = {Paul J Fletcher and Catherine C Tenn and Judy Sinyard and Zoë Rizos
+	and Shitij Kapur},
+  title = {A sensitizing regimen of amphetamine impairs visual attention in
+	the 5-choice serial reaction time test: reversal by a D1 receptor
+	agonist injected into the medial prefrontal cortex.},
+  journal = {Neuropsychopharmacology},
+  year = {2007},
+  volume = {32},
+  pages = {1122--1132},
+  number = {5},
+  month = {May},
+  abstract = {Exposure to repeated, intermittent, escalating doses of amphetamine
+	in rats disrupts information processing in several tasks. Some of
+	these deficits, notably impaired attentional set shifting, may reflect
+	altered prefrontal cortex function. This study examined the effects
+	of repeated treatment with amphetamine on performance in the 5-choice
+	serial reaction time test. This test measures sustained visual attention,
+	a behavior that is known to require the prefrontal cortex. Rats were
+	trained to respond to a brief light stimulus presented randomly in
+	one of five spatial locations, with 100 trials per session. Once
+	performance had stabilized rats were treated with escalating doses
+	of amphetamine (three injections per week for 5 weeks at 1-5 mg/kg
+	per week); testing was continued on nondrug days, and for several
+	weeks of withdrawal. During the amphetamine-treatment and withdrawal
+	phases accuracy of responding was unaffected, but errors of omission
+	increased. Lengthening the stimulus duration abolished this effect.
+	Reducing the stimulus duration also reduced response accuracy and
+	this effect was more marked in amphetamine-treated rats. Both reduced
+	accuracy, and increased omissions, seen in amphetamine-treated rats
+	were reversed by injecting the D1 receptor agonist SKF38393 into
+	the medial prefrontal cortex. This treatment also prevented the decline
+	in accuracy in control animals that resulted from reducing the stimulus
+	duration. These results, indicating that exposure to amphetamine
+	induces a long-lasting deficit in visual attention, add to a growing
+	list of deficits suggesting that amphetamine-sensitized state may
+	model the cognitive deficit state in schizophrenia. The reversal
+	of these deficits by a D1 receptor agonist provides further evidence
+	that prefrontal D1 dopamine receptors are involved in cognition,
+	and may be a potential target for treatment of impaired cognition
+	in schizophrenia.},
+  doi = {10.1038/sj.npp.1301221},
+  institution = {Section of Biopsychology, Centre for Addiction and Mental Health,
+	Toronto, ON, Canada. Paul_Fletcher@camh.net},
+  keywords = {2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine, pharmacology;
+	Amphetamine, pharmacology; Animals; Attention, drug effects/physiology;
+	Cognition, drug effects/physiology; Dopamine Agonists, pharmacology;
+	Dopamine Uptake Inhibitors, pharmacology; Dopamine, metabolism; Dose-Response
+	Relationship, Drug; Male; Neuropsychological Tests; Photic Stimulation;
+	Prefrontal Cortex, drug effects/metabolism; Rats; Rats, Sprague-Dawley;
+	Reaction Time, drug effects/physiology; Receptors, Dopamine D1, agonists/metabolism;
+	Substance Withdrawal Syndrome, metabolism/physiopathology; Visual
+	Perception, drug effects/physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {1301221},
+  pmid = {17047670},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1038/sj.npp.1301221}
+}
+
+@ARTICLE{Golla2004,
+  author = {Heidrun Golla and Alla Ignashchenkova and Thomas Haarmeier and Peter
+	Thier},
+  title = {Improvement of visual acuity by spatial cueing: a comparative study
+	in human and non-human primates.},
+  journal = {Vision Res},
+  year = {2004},
+  volume = {44},
+  pages = {1589--1600},
+  number = {13},
+  abstract = {This study investigated the influence of spatial cueing (valid/invalid/no
+	cue) on visual discrimination in human and non-human primates. We
+	employed a spatial resolution task which required the accurate discrimination
+	of the orientation of a Landolt "C" ring. The C appeared as single
+	target in specific retinal locations while subjects maintained fixation
+	of a central fixation point. The minimal discernable size of the
+	"C" (=acuity threshold) was determined as a function of cue condition,
+	retinal eccentricity (3 degrees -15 degrees ), and stimulus onset
+	asynchrony (SOA) (200-1100 ms). For both species, we found consistent
+	benefits from spatial cueing with differences in absolute thresholds
+	ranging from 6\% to 25\%. These differences increased with retinal
+	eccentricity and decreased with longer SOAs. Further experiments
+	performed with humans only, showed that the effect of spatial cueing
+	on visual discrimination is independent of spatial uncertainty, i.e.
+	the number of possible target locations (2 versus 4), but fades with
+	longer target presentation times. From our results we draw the following
+	conclusions. (i) Since sensory noise and spatial uncertainty was
+	small in our tasks, spatial shifts of attention involve signal enhancement
+	in both, human and non-human primates. (ii) The similarity of the
+	results obtained for humans and macaque monkeys indicates that the
+	latter may serve as a suitable model system in studies trying to
+	tackle the neural underpinnings of attentional control. (iii) In
+	order to elicit robust effects on visual discrimination by spatial
+	shifts of attention, a paradigm comprising short SOAs (approximately
+	200 ms) and target presentation times (approximately 150 ms), and
+	retinal eccentricities larger than approximately 9 degrees seems
+	most promising.},
+  doi = {10.1016/j.visres.2004.01.009},
+  file = {Golla2004.pdf:Golla2004.pdf:PDF},
+  institution = {Department of Cognitive Neurology, Hertie Institute for Clinical
+	Brain Research, University of Tübingen, Klinikum Schnarrenberg, Germany.
+	heidrun.golla@uni-tuebingen.de},
+  keywords = {Adult; Animals; Cues; Female; Humans; Macaca mulatta, physiology;
+	Male; Psychophysics; Visual Acuity, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0042698904000331},
+  pmid = {15126067},
+  timestamp = {2011.11.28},
+  url = {http://dx.doi.org/10.1016/j.visres.2004.01.009}
+}
+
+@ARTICLE{Harris2011,
+  author = {Kenneth D Harris and Alexander Thiele},
+  title = {Cortical state and attention.},
+  journal = {Nat Rev Neurosci},
+  year = {2011},
+  volume = {12},
+  pages = {509--523},
+  number = {9},
+  month = {Sep},
+  abstract = {The brain continuously adapts its processing machinery to behavioural
+	demands. To achieve this, it rapidly modulates the operating mode
+	of cortical circuits, controlling the way that information is transformed
+	and routed. This article will focus on two experimental approaches
+	by which the control of cortical information processing has been
+	investigated: the study of state-dependent cortical processing in
+	rodents and attention in the primate visual system. Both processes
+	involve a modulation of low-frequency activity fluctuations and spiking
+	correlation, and are mediated by common receptor systems. We suggest
+	that selective attention involves processes that are similar to state
+	change, and that operate at a local columnar level to enhance the
+	representation of otherwise non-salient features while suppressing
+	internally generated activity patterns.},
+  doi = {10.1038/nrn3084},
+  file = {Harris2011.pdf:Harris2011.pdf:PDF},
+  institution = {Department of Bioengineering, Imperial College, London SW7 2AZ, UK.
+	kenneth.harris@ imperial.ac.uk},
+  keywords = {Action Potentials, physiology; Animals; Attention, physiology; Cerebral
+	Cortex, physiology; Cognition, physiology; Humans; Nerve Net, physiology;
+	Visual Perception, physiology},
+  language = {eng},
+  medline-pst = {epublish},
+  owner = {wang},
+  pii = {nrn3084},
+  pmid = {21829219},
+  timestamp = {2011.12.05},
+  url = {http://dx.doi.org/10.1038/nrn3084}
+}
+
+@ARTICLE{Hayden2005,
+  author = {Benjamin Y Hayden and Jack L Gallant},
+  title = {Time course of attention reveals different mechanisms for spatial
+	and feature-based attention in area V4.},
+  journal = {Neuron},
+  year = {2005},
+  volume = {47},
+  pages = {637--643},
+  number = {5},
+  month = {Sep},
+  __markedentry = {[wang:]},
+  abstract = {Attention can facilitate visual processing, emphasizing specific locations
+	and highlighting stimuli containing specific features. To dissociate
+	the mechanisms of spatial and feature-based attention, we compared
+	the time course of visually evoked responses under different attention
+	conditions. We recorded from single neurons in area V4 during a delayed
+	match-to-sample task that controlled both spatial and feature-based
+	attention. Neuronal responses increased when spatial attention was
+	directed toward the receptive field and were modulated by the identity
+	of the target of feature-based attention. Modulation by spatial attention
+	was weaker during the early portion of the visual response and stronger
+	during the later portion of the response. In contrast, modulation
+	by feature-based attention was relatively constant throughout the
+	response. It appears that stimulus onset transients disrupt spatial
+	attention, but not feature attention. We conclude that spatial attention
+	reflects a combination of stimulus-driven and goal-driven processes,
+	while feature-based attention is purely goal driven.},
+  doi = {10.1016/j.neuron.2005.07.020},
+  file = {Hayden2005.pdf:Hayden2005.pdf:PDF;:mmc1.mpg:JPG image},
+  institution = {Department of Molecular and Cell Biology, Berkeley, California 94720,
+	USA.},
+  keywords = {Animals; Attention, physiology; Electrodes, Implanted; Evoked Potentials,
+	Visual, physiology; Excitatory Postsynaptic Potentials, physiology;
+	Fixation, Ocular; Form Perception, physiology; Macaca mulatta; Neurons,
+	physiology; Photic Stimulation; Space Perception, physiology; Visual
+	Cortex, cytology/physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0896-6273(05)00614-8},
+  pmid = {16129394},
+  timestamp = {2011.12.29},
+  url = {http://dx.doi.org/10.1016/j.neuron.2005.07.020}
+}
+
+@ARTICLE{Jin2011,
+  author = {Jianzhong Jin and Yushi Wang and Reza Lashgari and Harvey A Swadlow
+	and Jose-Manuel Alonso},
+  title = {Faster thalamocortical processing for dark than light visual targets.},
+  journal = {J Neurosci},
+  year = {2011},
+  volume = {31},
+  pages = {17471--17479},
+  number = {48},
+  month = {Nov},
+  abstract = {ON and OFF visual pathways originate in the retina at the synapse
+	between photoreceptor and bipolar cells. OFF bipolar cells are shorter
+	in length and use receptors with faster kinetics than ON bipolar
+	cells and, therefore, process information faster. Here, we demonstrate
+	that this temporal advantage is maintained through thalamocortical
+	processing, with OFF visual responses reaching cortex ∼3-6 ms before
+	ON visual responses. Faster OFF visual responses could be demonstrated
+	in recordings from large populations of cat thalamic neurons representing
+	the center of vision (both X and Y) and from subpopulations making
+	connection with the same cortical orientation column. While the OFF
+	temporal advantage diminished as visual responses reached their peak,
+	the integral of the impulse response was greater in OFF than ON neurons.
+	Given the stimulus preferences from OFF and ON channels, our results
+	indicate that darks are processed faster than lights in the thalamocortical
+	pathway.},
+  doi = {10.1523/JNEUROSCI.2456-11.2011},
+  institution = {Department of Biological Sciences, SUNY Optometry, New York, New
+	York 10036, and Department of Psychology, University of Connecticut,
+	Storrs, Connecticut 06269.},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {31/48/17471},
+  pmid = {22131408},
+  timestamp = {2011.12.05},
+  url = {http://dx.doi.org/10.1523/JNEUROSCI.2456-11.2011}
+}
+
+@ARTICLE{Kendall2006,
+  author = {Athena P Kendall and Mary A Kautz and Michael B Russo and William
+	D S Killgore},
+  title = {Effects of sleep deprivation on lateral visual attention.},
+  journal = {Int J Neurosci},
+  year = {2006},
+  volume = {116},
+  pages = {1125--1138},
+  number = {10},
+  month = {Oct},
+  abstract = {Sleep loss temporarily impairs vigilance and sustained attention.
+	Because these cognitive abilities are believed to be mediated predominantly
+	by the right cerebral hemisphere, this article hypothesized that
+	continuous sleep deprivation results in a greater frequency of inattention
+	errors within the left versus right visual fields. Twenty-one participants
+	were assessed several times each day during a 40-h period of sustained
+	wakefulness and following a night of recovery sleep. At each assessment,
+	participants engaged in a continuous serial addition task while simultaneously
+	monitoring a 150 degrees visual field for brief intermittent flashes
+	of light. Overall, omission errors were most common in the leftmost
+	peripheral field for all sessions, and did not show any evidence
+	of a shift in laterality as a function of sleep deprivation. Relative
+	to rested baseline and postrecovery conditions, sleep deprivation
+	resulted in a global increase in omission errors across all visual
+	locations and a general decline in serial addition performance. These
+	findings argue against the hypothesis that sleep deprivation produces
+	lateralized deficits in attention and suggest instead that deficits
+	in visual attention produced by sleep deprivation are global and
+	bilateral in nature.},
+  doi = {10.1080/00207450500513922},
+  institution = {Walter Reed Army Institute of Research, Silver Spring, MD 20910,
+	USA.},
+  keywords = {Adult; Attention, physiology; Female; Functional Laterality, physiology;
+	Humans; Male; Photic Stimulation, methods; Psychomotor Performance,
+	physiology; Reaction Time, physiology; Sleep Deprivation, physiopathology;
+	Time Factors; Visual Fields, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {V464U25M0773P765},
+  pmid = {16923682},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1080/00207450500513922}
+}
+
+@ARTICLE{Killgore2007,
+  author = {William D S Killgore and Athena P Kendall and Jessica M Richards
+	and Sharon A McBride},
+  title = {Lack of degradation in visuospatial perception of line orientation
+	after one night of sleep loss.},
+  journal = {Percept Mot Skills},
+  year = {2007},
+  volume = {105},
+  pages = {276--286},
+  number = {1},
+  month = {Aug},
+  abstract = {Sleep deprivation impairs a variety of cognitive abilities including
+	vigilance, attention, and executive function. Although sleep loss
+	has been shown to impair tasks requiring visual attention and spatial
+	perception, it is not clear whether these deficits are exclusively
+	a function of reduced attention and vigilance or if there are also
+	alterations in visuospatial perception. Visuospatial perception and
+	sustained vigilance performance were therefore examined in 54 healthy
+	volunteers at rested baseline and again after one night of sleep
+	deprivation using the Judgment of Line Orientation Test and a computerized
+	test of psychomotor vigilance. Whereas psychomotor vigilance declined
+	significantly from baseline to sleep-deprived testing, scores on
+	the Judgment of Line Orientation did not change significantly. Results
+	suggest that documented performance deficits associated with sleep
+	loss are unlikely to be the result of dysfunction within systems
+	of the brain responsible for simple visuospatial perception and processing
+	of line angles.},
+  institution = {Division of Psychiatry and Neuroscience, Department of Behavioral
+	Biology, Walter Reed Army Institute of Research (WRAIR), 503 Robert
+	Grant Avenue, Silver Spring, MD 20910, USA. william.d.killgore@us.army.mil},
+  keywords = {Adult; Arousal, physiology; Attention, physiology; Brain, physiology/physiopathology;
+	Cognition Disorders, diagnosis/physiopathology; Female; Functional
+	Laterality, physiology; Humans; Judgment, physiology; Male; Models,
+	Neurological; Neuropsychological Tests, statistics /&/ numerical
+	data; Orientation, physiology; Psychomotor Performance, physiology;
+	Sleep Deprivation, diagnosis/physiopathology; Visual Perception,
+	physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {17918576},
+  timestamp = {2011.12.19}
+}
+
+@ARTICLE{Klein2000,
+  author = {Klein},
+  title = {Inhibition of return.},
+  journal = {Trends Cogn Sci},
+  year = {2000},
+  volume = {4},
+  pages = {138--147},
+  number = {4},
+  month = {Apr},
+  abstract = {Immediately following an event at a peripheral location there is facilitation
+	for the processing of other stimuli near that location. This is said
+	to reflect a reflexive shift of attention towards the source of stimulation.
+	After attention is removed from such a peripheral location, there
+	is then delayed responding to stimuli subsequently displayed there.
+	This inhibitory aftereffect, first described in 1984 and later labeled
+	'inhibition of return (IOR)', encourages orienting towards novel
+	locations and hence might facilitate foraging and other search behaviors.
+	Since its relatively recent discovery, IOR has been the subject of
+	intensive investigation, from many angles and with a wide variety
+	of approaches. After describing the seminal contribution of Posner
+	and Cohen ('Who'), this review will discuss what causes IOR and,
+	once initiated, what effects IOR has on subsequent processing ('What').
+	The time course ('When') and spatial distribution ('Where') of IOR,
+	and what is known about IOR's neural implementation ('How') and functional
+	significance ('Why') are also discussed.},
+  file = {Klein2000.pdf:Klein2000.pdf:PDF},
+  institution = {Department of Psychology, Dalhousie University, Halifax, Nova Scotia,
+	Canada B3H 4J1.},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S1364-6613(00)01452-2},
+  pmid = {10740278},
+  timestamp = {2011.12.02}
+}
+
+@ARTICLE{Klein2009,
+  author = {Raymond Klein},
+  title = {On the control of attention.},
+  journal = {Can J Exp Psychol},
+  year = {2009},
+  volume = {63},
+  pages = {240--252},
+  number = {3},
+  month = {Sep},
+  abstract = {An early interest in cognitive processes led me to study with Mike
+	Posner from whom I acquired the intellectual tools to follow Hebb's
+	(1949) advice that "Everyone knows that attention and set exist so
+	we had better get the skeleton out of the closet and see what can
+	be done with it." Using variants of the model task Posner developed
+	for exploring the control of visual attention we have demonstrated
+	that endogenous shifts of attention are not generated by unexecuted
+	oculomotor activation, that endogenous and exogenous shifts of attention
+	are fundamentally different on a variety of dimensions and that an
+	aftermath of exogenous (but not endogenous) orienting, inhibition
+	of return, facilitates search by encouraging orienting to novel items.
+	A research strategy for understanding ambiguous forms of orienting
+	(e.g., that controlled by conspecific gaze) is proposed.},
+  doi = {10.1037/a0015807},
+  institution = {Dalhousie University, Halifax, Nova B3H 4J1, Canada. Ray.Klein@dal.ca},
+  keywords = {Attention, physiology; Eye Movements, physiology; Functional Laterality,
+	physiology; History, 20th Century; History, 21st Century; Humans;
+	Inhibition (Psychology); Models, Psychological; Orientation, physiology;
+	Photic Stimulation, methods; Reaction Time, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {2009-13083-009},
+  pmid = {19739907},
+  timestamp = {2011.12.20},
+  url = {http://dx.doi.org/10.1037/a0015807}
+}
+
+@ARTICLE{Kohn2005,
+  author = {Adam Kohn and Matthew A Smith},
+  title = {Stimulus dependence of neuronal correlation in primary visual cortex
+	of the macaque.},
+  journal = {J Neurosci},
+  year = {2005},
+  volume = {25},
+  pages = {3661--3673},
+  number = {14},
+  month = {Apr},
+  abstract = {Nearby cortical neurons often have correlated trial-to-trial response
+	variability, and a significant fraction of their spikes occur synchronously.
+	These two forms of correlation are both believed to arise from common
+	synaptic input, but the origin of this input is unclear. We investigated
+	the source of correlated responsivity by recording from pairs of
+	single neurons in primary visual cortex of anesthetized macaque monkeys
+	and comparing correlated variability and synchrony for spontaneous
+	activity and activity evoked by stimuli of different orientations
+	and contrasts. These two stimulus manipulations would be expected
+	to have different effects on the cortical pool providing input to
+	the recorded pair: changing stimulus orientation should recruit different
+	populations of cells, whereas changing stimulus contrast affects
+	primarily the relative strength of sensory drive and ongoing cortical
+	activity. Consistent with this predicted difference, we found that
+	correlation was affected by these stimulus manipulations in different
+	ways. Synchrony was significantly stronger for orientations that
+	drove both neurons well than for those that did not, but correlation
+	on longer time scales was orientation independent. Reducing stimulus
+	contrast resulted in a decrease in the temporal precision of synchronous
+	firing and an enhancement of correlated response variability on longer
+	time scales. Our results thus suggest that correlated responsivity
+	arises from mechanisms operating at two distinct timescales: one
+	that is orientation tuned and that determines the strength of temporally
+	precise synchrony, and a second that is contrast sensitive, of low
+	temporal frequency, and present in ongoing cortical activity.},
+  doi = {10.1523/JNEUROSCI.5106-04.2005},
+  file = {Kohn2005.pdf:Kohn2005.pdf:PDF},
+  institution = {Center for Neural Science, New York University, New York, New York
+	10003, USA. adamk@cns.nyu.edu},
+  keywords = {Action Potentials, physiology; Animals; Contrast Sensitivity, physiology;
+	Macaca fascicularis; Models, Neurological; Neurons, physiology; Orientation,
+	physiology; Photic Stimulation, methods; Reaction Time; Statistics
+	as Topic; Time Factors; Visual Cortex, cytology; Visual Perception,
+	physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {25/14/3661},
+  pmid = {15814797},
+  timestamp = {2011.11.26},
+  url = {http://dx.doi.org/10.1523/JNEUROSCI.5106-04.2005}
+}
+
+@ARTICLE{Kunar2008,
+  author = {Melina A Kunar and Randall Carter and Michael Cohen and Todd S Horowitz},
+  title = {Telephone conversation impairs sustained visual attention via a central
+	bottleneck.},
+  journal = {Psychon Bull Rev},
+  year = {2008},
+  volume = {15},
+  pages = {1135--1140},
+  number = {6},
+  month = {Dec},
+  abstract = {Recent research has shown that holding telephone conversations disrupts
+	one's driving ability. We asked whether this effect could be attributed
+	to a visual attention impairment. In Experiment 1, participants conversed
+	on a telephone or listened to a narrative while engaged in multiple
+	object tracking (MOT), a task requiring sustained visual attention.
+	We found that MOT was disrupted in the telephone conversation condition,
+	relative to single-task MOT performance, but that listening to a
+	narrative had no effect. In Experiment 2, we asked which component
+	of conversation might be interfering with MOT performance. We replicated
+	the conversation and single-task conditions of Experiment 1 and added
+	two conditions in which participants heard a sequence of words over
+	a telephone. In the shadowing condition, participants simply repeated
+	each word in the sequence. In the generation condition, participants
+	were asked to generate a new word based on each word in the sequence.
+	Word generation interfered with MOT performance, but shadowing did
+	not. The data indicate that telephone conversation disrupts attention
+	at a central stage, the act of generating verbal stimuli, rather
+	than at a peripheral stage, such as listening or speaking.},
+  doi = {10.3758/PBR.15.6.1135},
+  institution = {University of Warwick, Coventry, England. m.a.kunar@warwick.ac.uk},
+  keywords = {Attention; Color Perception; Humans; Motion Perception; Pattern Recognition,
+	Visual; Psychomotor Performance; Reaction Time; Semantics; Speech
+	Perception; Telephone; Verbal Behavior},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {15/6/1135},
+  pmid = {19001580},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.3758/PBR.15.6.1135}
+}
+
+@ARTICLE{Lee1997,
+  author = {D. K. Lee and C. Koch and J. Braun},
+  title = {Spatial vision thresholds in the near absence of attention.},
+  journal = {Vision Res},
+  year = {1997},
+  volume = {37},
+  pages = {2409--2418},
+  number = {17},
+  month = {Sep},
+  abstract = {It is well known that attention increases the discriminability of
+	some types of spatial information. To ascertain more specifically
+	which types of spatial information benefit from attention, we have
+	measured spatial vision thresholds both in the presence and in the
+	near absence of attention. To obtain near absence of attention, we
+	induce subjects to focus attention elsewhere in the display by means
+	of a suitably demanding concurrent visual task. We measure contrast
+	and orientation thresholds for sine-wave gratings, as well uni- and
+	bidirectional offset thresholds for vernier targets. The results
+	suggest that attention selectively lowers some thresholds but not
+	others: orientation thresholds are far more affected than contrast
+	thresholds, and bidirectional vernier thresholds are far more affected
+	than unidirectional thresholds.},
+  file = {Lee1997.pdf:Lee1997.pdf:PDF},
+  institution = {Computation and Neural Systems, California Institute of Technology,
+	Pasadena 91125, USA.},
+  keywords = {Attention, physiology; Contrast Sensitivity, physiology; Humans; Photic
+	Stimulation, methods; Psychophysics; Sensory Thresholds; Space Perception,
+	physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0042-6989(97)00055-2},
+  pmid = {9381676},
+  timestamp = {2011.11.27}
+}
+
+@ARTICLE{Lim2010,
+  author = {Julian Lim and Jiat Chow Tan and Sarayu Parimal and David F Dinges
+	and Michael W L Chee},
+  title = {Sleep deprivation impairs object-selective attention: a view from
+	the ventral visual cortex.},
+  journal = {PLoS One},
+  year = {2010},
+  volume = {5},
+  pages = {e9087},
+  number = {2},
+  abstract = {Most prior studies on selective attention in the setting of total
+	sleep deprivation (SD) have focused on behavior or activation within
+	fronto-parietal cognitive control areas. Here, we evaluated the effects
+	of SD on the top-down biasing of activation of ventral visual cortex
+	and on functional connectivity between cognitive control and other
+	brain regions.Twenty-three healthy young adult volunteers underwent
+	fMRI after a normal night of sleep (RW) and after sleep deprivation
+	in a counterbalanced manner while performing a selective attention
+	task. During this task, pictures of houses or faces were randomly
+	interleaved among scrambled images. Across different blocks, volunteers
+	responded to house but not face pictures, face but not house pictures,
+	or passively viewed pictures without responding. The appearance of
+	task-relevant pictures was unpredictable in this paradigm. SD resulted
+	in less accurate detection of target pictures without affecting the
+	mean false alarm rate or response time. In addition to a reduction
+	of fronto-parietal activation, attending to houses strongly modulated
+	parahippocampal place area (PPA) activation during RW, but this attention-driven
+	biasing of PPA activation was abolished following SD. Additionally,
+	SD resulted in a significant decrement in functional connectivity
+	between the PPA and two cognitive control areas, the left intraparietal
+	sulcus and the left inferior frontal lobe.SD impairs selective attention
+	as evidenced by reduced selectivity in PPA activation. Further, reduction
+	in fronto-parietal and ventral visual task-related activation suggests
+	that it also affects sustained attention. Reductions in functional
+	connectivity may be an important additional imaging parameter to
+	consider in characterizing the effects of sleep deprivation on cognition.},
+  doi = {10.1371/journal.pone.0009087},
+  institution = {Neuroscience and Behavioral Disorders Program, Duke-NUS Graduate
+	Medical School, Singapore, Singapore. julianzl@psych.upenn.edu},
+  keywords = {Attention, physiology; Brain Mapping; Face; Female; Frontal Lobe,
+	physiopathology; Humans; Magnetic Resonance Imaging; Male; Neuropsychological
+	Tests; Parietal Lobe, physiopathology; Pattern Recognition, Visual;
+	Sleep Deprivation, physiopathology/psychology; Task Performance and
+	Analysis; Visual Cortex, physiopathology; Visual Perception; Young
+	Adult},
+  language = {eng},
+  medline-pst = {epublish},
+  owner = {wang},
+  pmid = {20140099},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1371/journal.pone.0009087}
+}
+
+@ARTICLE{Ling2006,
+  author = {Sam Ling and Marisa Carrasco},
+  title = {When sustained attention impairs perception.},
+  journal = {Nat Neurosci},
+  year = {2006},
+  volume = {9},
+  pages = {1243--1245},
+  number = {10},
+  month = {Oct},
+  abstract = {Virtually all behavioral and neurophysiological studies have shown
+	that sustained (endogenous, conceptually driven) attention enhances
+	perception. But can this enhancement be held indefinitely? We assessed
+	the time course of attention's effects on contrast sensitivity, reasoning
+	that if attention does indeed boost stimulus strength, the strengthened
+	representation could result in stronger adaptation over time. We
+	found that attention initially enhances contrast sensitivity, but
+	that over time sustained attention can actually impair sensitivity
+	to an attended stimulus.},
+  doi = {10.1038/nn1761},
+  file = {Ling2006.pdf:Ling2006.pdf:PDF},
+  institution = {Department of Psychology, New York University, 6 Washington Place,
+	New York, New York 10003, USA. ling@nyu.edu},
+  keywords = {Attention, physiology; Contrast Sensitivity, physiology; Cues; Humans;
+	Photic Stimulation, methods; Psychophysics, methods; Reaction Time,
+	physiology; Sensory Thresholds, physiology; Time Factors},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {nn1761},
+  pmid = {16964254},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1038/nn1761}
+}
+
+@ARTICLE{Marote2011,
+  author = {Claudia Franco Olim Marote and Gilberto Fernando Xavier},
+  title = {Endogenous-like orienting of visual attention in rats.},
+  journal = {Anim Cogn},
+  year = {2011},
+  volume = {14},
+  pages = {535--544},
+  number = {4},
+  month = {Jul},
+  abstract = {This study investigated the orienting of visual attention in rats
+	using a 3-hole nose-poke task analogous to Posner, Information processing
+	in cognition: the Loyola Symposium, Erlbaum, Hillsdale, (1980) covert
+	attention task for humans. The effects of non-predictive (50\% valid
+	and 50\% invalid) and predictive (80\% valid and 20\% invalid) peripheral
+	visual cues on reaction times and response accuracy to a target stimulus,
+	using Stimuli-Onset Asynchronies (SOAs) varying between 200 and 1,200
+	ms, were investigated. The results showed shorter reaction times
+	in valid trials relative to invalid trials for both subjects trained
+	in the non-predictive and predictive conditions, particularly when
+	the SOAs were 200 and 400 ms. However, the magnitude of this validity
+	effect was significantly greater for subjects exposed to predictive
+	cues, when the SOA was 800 ms. Subjects exposed to invalid predictive
+	cues exhibited an increase in omission errors relative to subjects
+	exposed to invalid non-predictive cues. In contrast, valid cues reduced
+	the proportion of omission errors for subjects trained in the predictive
+	condition relative to subjects trained in the non-predictive condition.
+	These results are congruent with those usually reported for humans
+	and indicate that, in addition to the exogenous capture of attention
+	promoted by both predictive and non-predictive peripheral cues, rats
+	exposed to predictive cues engaged an additional slower process equivalent
+	to human's endogenous orienting of attention. To our knowledge, this
+	is the first demonstration of an endogenous-like process of covert
+	orienting of visual attention in rats.},
+  doi = {10.1007/s10071-011-0388-3},
+  institution = {Department of Physiology, Biosciences Institute, University of São
+	Paulo, SP, Brazil.},
+  keywords = {Animals; Attention, physiology; Conditioning, Operant; Cues; Male;
+	Photic Stimulation; Rats; Rats, Wistar; Reaction Time; Visual Perception,
+	physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {21369759},
+  timestamp = {2011.12.20},
+  url = {http://dx.doi.org/10.1007/s10071-011-0388-3}
+}
+
+@ARTICLE{Maylor1985,
+  author = {E. A. Maylor and R. Hockey},
+  title = {Inhibitory component of externally controlled covert orienting in
+	visual space.},
+  journal = {J Exp Psychol Hum Percept Perform},
+  year = {1985},
+  volume = {11},
+  pages = {777--787},
+  number = {6},
+  month = {Dec},
+  abstract = {Four experiments are reported that investigate an inhibitory effect
+	associated with externally controlled orienting and first identified
+	by Posner and Cohen (1980, 1984). The effect takes the form of an
+	inability to respond quickly to a stimulus appearing in the same
+	location in the visual periphery as a previous one that produced
+	covert orienting. Several characteristics of the effect are revealed
+	that eliminate possible explanations in terms of response inhibition,
+	masking, and sensory habituation. The inhibitory component of orienting
+	occurs whether or not the first stimulus requires a response (Experiment
+	1), lasts at least a second (Experiments 1, 2, and 3), affects not
+	only the originally stimulated location but also nearby locations
+	(Experiment 2), is determined by environmental coordinates (Experiment
+	3), and occurs both in the periphery and at the fovea (Experiment
+	4). It is concluded that inhibition may act together with an early
+	facilitatory component (Posner & Cohen, 1984) in directing the attention
+	and eye movement systems in order to maintain efficient spatial sampling.},
+  keywords = {Form Perception; Humans; Inhibition (Psychology); Orientation; Psychomotor
+	Performance; Space Perception; Visual Fields},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {2934508},
+  timestamp = {2011.12.20}
+}
+
+@ARTICLE{Mendelsohn2009,
+  author = {Daniel Mendelsohn and Wim J Riedel and Anke Sambeth},
+  title = {Effects of acute tryptophan depletion on memory, attention and executive
+	functions: a systematic review.},
+  journal = {Neurosci Biobehav Rev},
+  year = {2009},
+  volume = {33},
+  pages = {926--952},
+  number = {6},
+  month = {Jun},
+  abstract = {The serotonergic system is implicated in the regulation of mood and
+	cognition. Acute tryptophan depletion (ATD) is an experimental procedure
+	for lowering central serotonin levels. Here, the effects of ATD on
+	psychomotor processing, declarative memory, working memory, executive
+	functions and attention are discussed. The most robust finding is
+	that ATD impairs the consolidation of episodic memory for verbal
+	information. Semantic memory appears to be unaffected by ATD although
+	a limited variety of tasks examined effects in this domain. Similarly,
+	evidence suggests ATD does not influence verbal, spatial and affective
+	working memory. Most studies investigating effects on executive functions
+	have produced non-specific or negative findings. In terms of attention,
+	ATD either does not affect or may improve focused attention and ATD
+	likely does not impact sustained and divided attention or attentional
+	set-shifting. Although ATD is known to affect mood in certain vulnerable
+	populations, the effects of ATD on cognition in non-vulnerable participants
+	are independent of mood changes. Suggestions for future directions
+	and implications for psychiatric illnesses are discussed.},
+  doi = {10.1016/j.neubiorev.2009.03.006},
+  institution = {Department of Neuropsychology and Psychopharmacology, Faculty of
+	Psychology and Neuroscience, Maastricht University, Maastricht, The
+	Netherlands.},
+  keywords = {Attention, physiology; Brain, anatomy /&/ histology/physiology; Cognition,
+	physiology; Emotions, physiology; Humans; Memory, physiology; Psychomotor
+	Performance, physiology; Semantics; Serotonin, metabolism; Space
+	Perception, physiology; Tryptophan, metabolism},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0149-7634(09)00041-4},
+  pmid = {19428501},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1016/j.neubiorev.2009.03.006}
+}
+
+@ARTICLE{Metha2001a,
+  author = {A. B. Metha and A. M. Crane and H. G. Rylander and S. L. Thomsen
+	and D. G. Albrecht},
+  title = {Maintaining the cornea and the general physiological environment
+	in visual neurophysiology experiments.},
+  journal = {J Neurosci Methods},
+  year = {2001},
+  volume = {109},
+  pages = {153--166},
+  number = {2},
+  month = {Aug},
+  abstract = {Neurophysiologists have been investigating the responses of neurons
+	in the visual system for the past half-century using monkeys and
+	cats that are anesthetized and paralyzed, with the non-blinking eyelids
+	open for prolonged periods of time. Impermeable plastic contact lenses
+	have been used to prevent dehydration of the corneal epithelium,
+	which would otherwise occur in minutes. Unfortunately, such lenses
+	rapidly introduce a variety of abnormal states that lead to clouding
+	of the cornea, degradation of the retinal image, and premature termination
+	of the experiment. To extend the viability of such preparations,
+	a new protocol for maintenance of corneal health has been developed.
+	The protocol uses rigid gas permeable contact lenses designed to
+	maximize gas transmission, rigorous sterile methods, and a variety
+	of methods for sustaining and monitoring the overall physiology of
+	the animal. The effectiveness of the protocol was evaluated clinically
+	by ophthalmoscopy before, during, and after the experiments, which
+	lasted 8-10 days. Histopathology and quantitative histology were
+	performed on the corneas following the experiment. Our observations
+	showed that this protocol permits continuous contact lens wear without
+	adversely affecting the corneas. Thus, it is possible to collect
+	data 24 h each day, for the entire duration of the experiment.},
+  institution = {Department of Optometry and Vision Sciences, The University of Melbourne,
+	Victoria 3053, Carlton, Australia.},
+  keywords = {Animals; Cats; Cell Membrane Permeability, physiology; Contact Lenses,
+	adverse effects/standards/trends; Cornea, injuries/pathology/physiopathology;
+	Corneal Opacity, etiology/physiopathology/prevention /&/ control;
+	Dehydration, etiology/physiopathology/prevention /&/ control; Gases,
+	metabolism; Macaca fascicularis; Macaca mulatta; Neurophysiology,
+	instrumentation/methods; Neurosurgical Procedures, instrumentation/methods;
+	Ophthalmoscopes; Optometry, instrumentation/methods; Permeability;
+	Postmortem Changes; Visual Pathways, physiology; Water-Electrolyte
+	Balance, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0165027001004095},
+  pmid = {11513950},
+  timestamp = {2011.11.30}
+}
+
+@ARTICLE{Mukai2011,
+  author = {Ikuko Mukai and Kandy Bahadur and Kartik Kesavabhotla and Leslie
+	G Ungerleider},
+  title = {Exogenous and endogenous attention during perceptual learning differentially
+	affect post-training target thresholds.},
+  journal = {J Vis},
+  year = {2011},
+  volume = {11},
+  number = {1},
+  abstract = {There is conflicting evidence in the literature regarding the role
+	played by attention in perceptual learning. To further examine this
+	issue, we independently manipulated exogenous and endogenous attention
+	and measured the rate of perceptual learning of oriented Gabor patches
+	presented in different quadrants of the visual field. In this way,
+	we could track learning at attended, divided-attended, and unattended
+	locations. We also measured contrast thresholds of the Gabor patches
+	before and after training. Our results showed that, for both exogenous
+	and endogenous attention, accuracy in performing the orientation
+	discrimination improved to a greater extent at attended than at unattended
+	locations. Importantly, however, only exogenous attention resulted
+	in improved contrast thresholds. These findings suggest that both
+	exogenous and endogenous attention facilitate perceptual learning,
+	but that these two types of attention may be mediated by different
+	neural mechanisms.},
+  doi = {10.1167/11.1.25},
+  institution = {Laboratory of Brain and Cognition, National Institute of Mental Health,
+	National Institutes of Health, Bethesda, MD 20892-1366, USA. mukaii@mail.nih.gov},
+  keywords = {Adult; Attention, physiology; Contrast Sensitivity, physiology; Cues;
+	Discrimination (Psychology); Female; Fixation, Ocular; Goals; Humans;
+	Learning, physiology; Male; Orientation; Perception, physiology;
+	Photic Stimulation, methods; Reaction Time; Regression Analysis;
+	Sensory Thresholds, physiology; Visual Fields; Young Adult},
+  language = {eng},
+  medline-pst = {epublish},
+  owner = {wang},
+  pii = {11.1.25},
+  pmid = {21282340},
+  timestamp = {2011.12.01},
+  url = {http://dx.doi.org/10.1167/11.1.25}
+}
+
+@ARTICLE{Mueller1989,
+  author = {H. J. Müller and P. M. Rabbitt},
+  title = {Reflexive and voluntary orienting of visual attention: time course
+	of activation and resistance to interruption.},
+  journal = {J Exp Psychol Hum Percept Perform},
+  year = {1989},
+  volume = {15},
+  pages = {315--330},
+  number = {2},
+  month = {May},
+  abstract = {To study the mechanisms underlying covert orienting of attention in
+	visual space, subjects were given advance cues indicating the probable
+	locations of targets that they had to discriminate and localize.
+	Direct peripheral cues (brightening of one of four boxes in peripheral
+	vision) and symbolic central cues (an arrow at the fixation point
+	indicating a probable peripheral box) were compared. Peripheral and
+	central cues are believed to activate different reflexive and voluntary
+	modes of orienting (Jonides, 1981; Posner, 1980). Experiment 1 showed
+	that the time courses of facilitation and inhibition from peripheral
+	and central cues were characteristic and different. Experiment 2
+	showed that voluntary orienting in response to symbolic central cues
+	is interrupted by reflexive orienting to random peripheral flashes.
+	Experiment 3 showed that irrelevant peripheral flashes also compete
+	with relevant peripheral cues. The amount of interference varied
+	systematically with the interval between the onset of the relevant
+	cue and of the distracting flash (cue-flash onset asynchrony) and
+	with the cuing condition. Taken together, these effects support a
+	model for spatial attention with distinct but interacting reflexive
+	and voluntary orienting mechanisms.},
+  institution = {Department of Psychology, Birkbeck College, University of London,
+	England.},
+  keywords = {Adult; Arousal; Attention; Cues; Form Perception; Humans; Orientation;
+	Pattern Recognition, Visual; Psychomotor Performance; Sensory Thresholds},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {2525601},
+  timestamp = {2011.12.20}
+}
+
+@ARTICLE{Oshiro2007,
+  author = {Wendy M Oshiro and Q. Todd Krantz and Philip J Bushnell},
+  title = {Repeated inhalation of toluene by rats performing a signal detection
+	task leads to behavioral tolerance on some performance measures.},
+  journal = {Neurotoxicol Teratol},
+  year = {2007},
+  volume = {29},
+  pages = {247--254},
+  number = {2},
+  abstract = {Previous work showed that trichloroethylene (TCE) impairs sustained
+	attention as evidenced by a reduction in accuracy and elevation of
+	response latencies in rats trained to perform a visual signal detection
+	task (SDT). This work also showed that these effects abate during
+	repeated exposures if rats inhale TCE while performing the SDT. The
+	present experiment sought to determine whether toluene, another commonly-used
+	solvent, would induce tolerance similarly if inhaled repeatedly during
+	SDT testing. Sixteen male, Long-Evans rats were trained to perform
+	the SDT. Upon completion of training, rats were divided into 2 groups.
+	In Phase I, concentration-effect functions were determined for toluene
+	(0, 1200, 1600, 2000, 2400 ppm) in both groups. Toluene reduced the
+	proportion of correct responses [P(correct)], and increased response
+	time (RT) and response failures. In Phase II, Group-Tol inhaled 1600
+	ppm toluene while Group-Air inhaled clean air during 11 daily SDT
+	sessions. In Group-Tol the effect of toluene on P(correct) abated
+	after 3 days, while RT remained elevated for the duration of the
+	repeated exposures. In Phase III, toluene concentration-effect functions
+	were re-determined for both groups. Group-Air remained impaired on
+	all test measures, whereas for Group-Tol, toluene did not reduce
+	P(correct), but continued to increase RT. These data confirm our
+	previous hypothesis that animals can develop tolerance to chemical
+	exposures that impair appetitively-motivated behaviors if that impairment
+	leads to loss of reinforcement.},
+  doi = {10.1016/j.ntt.2006.11.001},
+  institution = {Neurotoxicology Division, National Health and Environmental Effects
+	Research Laboratory, U.S. Environmental Protection Agency, Research
+	Triangle Park, North Carolina 27711, USA.},
+  keywords = {Administration, Inhalation; Analysis of Variance; Animals; Behavior,
+	Animal, drug effects; Conditioning, Operant, drug effects; Dose-Response
+	Relationship, Drug; Drug Administration Schedule; Drug Tolerance;
+	Male; Rats; Rats, Long-Evans; Reaction Time, drug effects; Signal
+	Detection, Psychological, drug effects; Solvents, pharmacology; Toluene,
+	pharmacology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0892-0362(06)00159-0},
+  pmid = {17175136},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1016/j.ntt.2006.11.001}
+}
+
+@ARTICLE{Pestilli2005,
+  author = {Franco Pestilli and Marisa Carrasco},
+  title = {Attention enhances contrast sensitivity at cued and impairs it at
+	uncued locations.},
+  journal = {Vision Res},
+  year = {2005},
+  volume = {45},
+  pages = {1867--1875},
+  number = {14},
+  month = {Jun},
+  abstract = {Transient covert attention increases contrast sensitivity at the target
+	location with an informative spatial cue. Here we explored whether
+	an uninformative spatial cue (50\% valid with two possible locations)
+	also increases contrast sensitivity and whether contrast sensitivity
+	is altered at the uncued location as compared to the neutral condition.
+	For all four observers, transient covert attention had both a benefit
+	and a cost: it enhanced contrast sensitivity at the cued location
+	and impaired contrast sensitivity at the uncued location at both
+	parafoveal and peripheral positions. These results are consistent
+	with the idea of limited resources, and indicate that transient attention
+	helps control the expenditure of cortical computation.},
+  doi = {10.1016/j.visres.2005.01.019},
+  file = {Pestilli2005.pdf:Pestilli2005.pdf:PDF},
+  institution = {Department of Psychology, New York University, 6 Washington Place,
+	8th Fl, New York, NY 10003-6634, USA.},
+  keywords = {Attention, physiology; Contrast Sensitivity, physiology; Cues; Discrimination
+	(Psychology), physiology; Fixation, Ocular, physiology; Humans; Photic
+	Stimulation, methods; Psychophysics; Sensory Thresholds, physiology;
+	Vision, Binocular, physiology; Visual Fields, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0042-6989(05)00057-X},
+  pmid = {15797776},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1016/j.visres.2005.01.019}
+}
+
+@ARTICLE{Posner1980a,
+  author = {M. I. Posner},
+  title = {Orienting of attention.},
+  journal = {Q J Exp Psychol},
+  year = {1980},
+  volume = {32},
+  pages = {3--25},
+  number = {1},
+  month = {Feb},
+  file = {:/home/wang/reference/Posner1980a.pdf:PDF},
+  keywords = {Attention; Humans; Orientation; Saccades; Visual Perception},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {7367577},
+  timestamp = {2011.12.20}
+}
+
+@ARTICLE{Posner1990,
+  author = {M. I. Posner and S. E. Petersen},
+  title = {The attention system of the human brain.},
+  journal = {Annu Rev Neurosci},
+  year = {1990},
+  volume = {13},
+  pages = {25--42},
+  doi = {10.1146/annurev.ne.13.030190.000325},
+  institution = {Department of Psychology, University of Oregon, Eugene 97403.},
+  keywords = {Attention, physiology; Brain, physiology; Functional Laterality, physiology;
+	Humans; Pattern Recognition, Visual, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {2183676},
+  timestamp = {2011.12.03},
+  url = {http://dx.doi.org/10.1146/annurev.ne.13.030190.000325}
+}
+
+@ARTICLE{Posner1980,
+  author = {M. I. Posner and C. R. Snyder and B. J. Davidson},
+  title = {Attention and the detection of signals.},
+  journal = {J Exp Psychol},
+  year = {1980},
+  volume = {109},
+  pages = {160--174},
+  number = {2},
+  month = {Jun},
+  abstract = {Detection of a visual signal requires information to reach a system
+	capable of eliciting arbitrary responses required by the experimenter.
+	Detection latencies are reduced when subjects receive a cue that
+	indicates where in the visual field the signal will occur. This shift
+	in efficiency appears to be due to an alignment (orienting) of the
+	central attentional system with the pathways to be activated by the
+	visual input. It would also be possible to describe these results
+	as being due to a reduced criterion at the expected target position.
+	However, this description ignores important constraints about the
+	way in which expectancy improves performance. First, when subjects
+	are cued on each trial, they show stronger expectancy effects than
+	when a probable position is held constant for a block, indicating
+	the active nature of the expectancy. Second, while information on
+	spatial position improves performance, information on the form of
+	the stimulus does not. Third, expectancy may lead to improvements
+	in latency without a reduction in accuracy. Fourth, there appears
+	to be little ability to lower the criterion at two positions that
+	are not spatially contiguous. A framework involving the employment
+	of a limited-capacity attentional mechanism seems to capture these
+	constraints better than the more general language of criterion setting.
+	Using this framework, we find that attention shifts are not closely
+	related to the saccadic eye movement system. For luminance detection
+	the retina appears to be equipotential with respect to attention
+	shifts, since costs to unexpected stimuli are similar whether foveal
+	or peripheral. These results appear to provide an important model
+	system for the study of the relationship between attention and the
+	structure of the visual system.},
+  keywords = {Attention; Cues; Humans; Orientation; Space Perception; Visual Perception},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {7381367},
+  timestamp = {2011.12.20}
+}
+
+@ARTICLE{Robinson1995a,
+  author = {D. L. Robinson and E. M. Bowman and C. Kertzman},
+  title = {Covert orienting of attention in macaques. II. Contributions of parietal
+	cortex.},
+  journal = {J Neurophysiol},
+  year = {1995},
+  volume = {74},
+  pages = {698--712},
+  number = {2},
+  month = {Aug},
+  abstract = {1. To understand some of the contributions of parietal cortex to the
+	dynamics of visual spatial attention, we recorded from cortical cells
+	of monkeys performing attentional tasks. We studied 484 neurons in
+	the intraparietal sulcus and adjacent gyral tissue of two monkeys.
+	We measured phasic responses to peripheral visual stimuli while the
+	monkeys attended toward or away from the stimuli or when attention
+	was not controlled. Neurons were tested while the monkeys gazed at
+	a spot of light (simple fixation task), actively attended to a foveal
+	target (foveal attention task), performed a reaction time task (cued
+	reaction time task), made saccadic eye movements to visual targets
+	(saccade task), or responded to a repetitious peripheral target (probability
+	task). 2. In a previous paper we demonstrated that monkeys, like
+	humans, responded more quickly to visual targets when the targets
+	followed briefly flashed visual cues (validly cued targets) (Bowman
+	et al. 1993). It has been hypothesized that the cue attracts attention
+	to its locus and results in faster reaction times (Posner 1980).
+	In the present physiological studies, visual cues consistently excited
+	these neurons when they were flashed in the receptive field. Such
+	activity might signal a shift of attention. Visual targets that fell
+	within the receptive field and that immediately followed the cue
+	evoked relatively weak responses. This response was due to a relative
+	refractory period. 3. Next we tested attentional processes in these
+	tasks that were independent of the visual response to the cue. We
+	placed the cue outside of the receptive field and the target within
+	the receptive field. We found that 23\% of these cells had a significant
+	decrease in their firing rate to validly cued targets in their receptive
+	fields under these conditions. Strong responses were evoked by the
+	same target when the cue was flashed in the opposite hemifield (invalidly
+	cued targets). Thus this group of neurons responded best when attention
+	was directed toward the opposite hemifield. 4. For another group
+	of parietal cells (13\%) there was an enhanced response to targets
+	in the visual receptive field when the cue was in the same hemifield.
+	For the remaining 64\% of the cells there was no significant modulation
+	in this task. 5. The cued reaction time task involved exogenous control
+	of attention; the sensory cue gave spatial and temporal direction
+	to attention. We used several other tasks to test for endogenous
+	control of attention.(ABSTRACT TRUNCATED AT 400 WORDS)},
+  institution = {Section on Visual Behavior, National Eye Institute, National Institutes
+	of Health, Bethesda, Maryland 20892, USA.},
+  keywords = {Animals; Attention, physiology; Behavior, Animal, physiology; Female;
+	Macaca mulatta; Male; Models, Biological; Motor Activity, physiology;
+	Neurons, physiology; Parietal Lobe, physiology; Photic Stimulation;
+	Reaction Time; Time Factors; Visual Fields, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {7472375},
+  timestamp = {2011.12.20}
+}
+
+@ARTICLE{Robinson1995,
+  author = {D. L. Robinson and C. Kertzman},
+  title = {Covert orienting of attention in macaques. III. Contributions of
+	the superior colliculus.},
+  journal = {J Neurophysiol},
+  year = {1995},
+  volume = {74},
+  pages = {713--721},
+  number = {2},
+  month = {Aug},
+  abstract = {1. The present experiments were conducted to study physiological mechanisms
+	in the superior colliculus and their relation to visual spatial attention.
+	We used a cued reaction time task studied in detail previously (Bowman
+	et al. 1993; Posner 1980). Monkeys learned to fixate a spot of light
+	and release a bar when a target light appeared. Cues on the same
+	side as the target (valid cue) were associated with faster reaction
+	times than those on the opposite side (invalid cue). The difference
+	in reaction times is hypothesized to be a measure of attention. 2.
+	A total of 79 neurons within the superficial layers of the superior
+	colliculi of two monkeys were studied. When the cues and targets
+	were positioned so that both were within the visual receptive field,
+	the cues excited the cells, and this produced a refractoriness to
+	the targets for the following 400 ms. Both the ON and OFF responses
+	to the cue were constant under all conditions. 3. These neurons were
+	also tested with the cue just outside of the visual receptive field.
+	This was done to avoid refractory effects from the cue; there was
+	no significant modulation of the response to the target under these
+	conditions. The visual responses of neurons in the intermediate layers
+	of the superior colliculus also responded equivalently under these
+	conditions. 4. When the activity of cells within the foveal representation
+	was compared during the performance of three tasks, there was differential
+	activity. The appearance of the fixation point during the performance
+	of the cued reaction time task led to a strong, transient discharge.(ABSTRACT
+	TRUNCATED AT 250 WORDS)},
+  institution = {Section on Visual Behavior, National Eye Institute, National Institutes
+	of Health, Bethesda, Maryland 20892, USA.},
+  keywords = {Animals; Attention, physiology; Behavior, Animal, physiology; Female;
+	Light; Macaca mulatta; Male; Muscimol, pharmacology; Neurons, physiology;
+	Photic Stimulation; Reaction Time; Superior Colliculi, physiology;
+	Visual Fields, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {7472376},
+  timestamp = {2011.12.20}
+}
+
+@ARTICLE{Shibata2011,
+  author = {Kazuhisa Shibata and Takeo Watanabe and Yuka Sasaki and Mitsuo Kawato},
+  title = {Perceptual learning incepted by decoded fMRI neurofeedback without
+	stimulus presentation.},
+  journal = {Science},
+  year = {2011},
+  volume = {334},
+  pages = {1413--1415},
+  number = {6061},
+  month = {Dec},
+  abstract = {It is controversial whether the adult primate early visual cortex
+	is sufficiently plastic to cause visual perceptual learning (VPL).
+	The controversy occurs partially because most VPL studies have examined
+	correlations between behavioral and neural activity changes rather
+	than cause-and-effect relationships. With an online-feedback method
+	that uses decoded functional magnetic resonance imaging (fMRI) signals,
+	we induced activity patterns only in early visual cortex corresponding
+	to an orientation without stimulus presentation or participants'
+	awareness of what was to be learned. The induced activation caused
+	VPL specific to the orientation. These results suggest that early
+	visual areas are so plastic that mere inductions of activity patterns
+	are sufficient to cause VPL. This technique can induce plasticity
+	in a highly selective manner, potentially leading to powerful training
+	and rehabilitative protocols.},
+  doi = {10.1126/science.1212003},
+  file = {Shibata2011.pdf:Shibata2011.pdf:PDF},
+  institution = {Advanced Telecommunications Research Institute International Computational
+	Neuroscience Laboratories, Keihanna Science City, Kyoto 619-0288,
+	Japan.},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {334/6061/1413},
+  pmid = {22158821},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1126/science.1212003}
+}
+
+@ARTICLE{Smid2006,
+  author = {H. G O M Smid and M. R. de Witte and I. Homminga and R. J. van den
+	Bosch},
+  title = {Sustained and transient attention in the continuous performance task.},
+  journal = {J Clin Exp Neuropsychol},
+  year = {2006},
+  volume = {28},
+  pages = {859--883},
+  number = {6},
+  month = {Aug},
+  abstract = {One of the most frequently applied methods to study abnormal cognition
+	is the Continuous Performance Task (CPT). It is unclear, however,
+	which cognitive functions are engaged in normal CPT performance.
+	The aims of the present study were to identify the neurocognitive
+	functions engaged in the main variants of the CPT and to determine
+	to what extent these variants differentially engage these functions.
+	We hypothesized that the main CPT versions (CPT-X, CPT-AX, CPT-Identical
+	Pairs) can be distinguished by whether they demand sustained or transient
+	attention and sustained or transient response preparation. Transient
+	attention to objects like letters or digits, that is, the need to
+	switch attention to different objects from trial to trial, impairs
+	target detection accuracy relative to sustained attention to a single
+	object. Transient response preparation, that is, the possibility
+	to switch response preparation on and off from trial to trial, improves
+	response speed relative to having to sustain response preparation
+	across all trials. Comparison of task performance and Event-Related
+	brain Potentials (ERPs) of healthy participants obtained in the main
+	CPT variants confirmed these hypotheses. Behavioral and ERP measures
+	indicated worse target detection in the CPT-AX than in the CPT-X,
+	consistent with a higher demand on transient attention in that task.
+	In contrast, behavioral and ERP measures indicated higher response
+	speed in the CPT-AX than in the CPT-X, associated with more response
+	preparation in advance of the targets. This supports the idea of
+	increased transient response preparation in the CPT-AX. We conclude
+	that CPTs differ along at least two task variables that each influences
+	a different cognitive function.},
+  doi = {10.1080/13803390591001025},
+  institution = {ningen, The Netherlands. h.g.o.m.smid@psy.umcg.nl},
+  keywords = {Adult; Attention, physiology; Cognition, physiology; Electroencephalography,
+	methods; Evoked Potentials, physiology; Female; Humans; Male; Pattern
+	Recognition, Visual, physiology; Psychomotor Performance, physiology/radiation
+	effects; Reaction Time, physiology; Task Performance and Analysis},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {NQ3056740652R305},
+  pmid = {16822729},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1080/13803390591001025}
+}
+
+@ARTICLE{Smith2008,
+  author = {Matthew A Smith and Adam Kohn},
+  title = {Spatial and temporal scales of neuronal correlation in primary visual
+	cortex.},
+  journal = {J Neurosci},
+  year = {2008},
+  volume = {28},
+  pages = {12591--12603},
+  number = {48},
+  month = {Nov},
+  abstract = {The spiking activity of cortical neurons is correlated. For instance,
+	trial-to-trial fluctuations in response strength are shared between
+	neurons, and spikes often occur synchronously. Understanding the
+	properties and mechanisms that generate these forms of correlation
+	is critical for determining their role in cortical processing. We
+	therefore investigated the spatial extent and functional specificity
+	of correlated spontaneous and evoked activity. Because feedforward,
+	recurrent, and feedback pathways have distinct extents and specificity,
+	we reasoned that these measurements could elucidate the contribution
+	of each type of input. We recorded single unit activity with microelectrode
+	arrays which allowed us to measure correlation in many hundreds of
+	pairings, across a large range of spatial scales. Our data show that
+	correlated evoked activity is generated by two mechanisms that link
+	neurons with similar orientation preferences on different spatial
+	scales: one with high temporal precision and a limited spatial extent
+	(approximately 3 mm), and a second that gives rise to correlation
+	on a slow time scale and extends as far as we were able to measure
+	(10 mm). The former is consistent with common input provided by horizontal
+	connections; the latter likely involves feedback from extrastriate
+	cortex. Spontaneous activity was correlated over a similar spatial
+	extent, but approximately twice as strongly as evoked activity. Visual
+	stimuli thus caused a substantial decrease in correlation, particularly
+	at response onset. These properties and the circuit mechanism they
+	imply provide new constraints on the functional role that correlation
+	may play in visual processing.},
+  doi = {10.1523/JNEUROSCI.2929-08.2008},
+  file = {Smith2008.pdf:Smith2008.pdf:PDF},
+  institution = {Center for the Neural Basis of Cognition, Carnegie Mellon University,
+	Pittsburgh, Pennsylvania 15213, USA. masmith@cnbc.cmu.edu},
+  keywords = {Action Potentials, physiology; Animals; Electrophysiology, instrumentation/methods;
+	Evoked Potentials, Visual, physiology; Feedback, physiology; Macaca
+	fascicularis; Macaca nemestrina; Male; Microelectrodes, standards;
+	Nerve Net, physiology; Neural Pathways, physiology; Neurons, physiology;
+	Neuropsychological Tests; Orientation, physiology; Photic Stimulation;
+	Reaction Time, physiology; Signal Processing, Computer-Assisted;
+	Time Factors; Visual Cortex, physiology; Visual Pathways, physiology;
+	Visual Perception, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {28/48/12591},
+  pmid = {19036953},
+  timestamp = {2011.11.26},
+  url = {http://dx.doi.org/10.1523/JNEUROSCI.2929-08.2008}
+}
+
+@ARTICLE{Tipples2000,
+  author = {J. Tipples and D. Sharma},
+  title = {Orienting to exogenous cues and attentional bias to affective pictures
+	reflect separate processes.},
+  journal = {Br J Psychol},
+  year = {2000},
+  volume = {91 ( Pt 1)},
+  pages = {87--97},
+  month = {Feb},
+  abstract = {On the basis of psychophysiological research it has been argued that
+	pleasant and unpleasant pictures inhibit orienting to abrupt startle
+	stimuli. Converging psychophysical evidence was sought for this finding
+	using a modified version of the spatial precueing paradigm (Posner,
+	1980). Specifically, exogenous cues were presented to the left and
+	right of neutral, pleasant and unpleasant picture stimuli. In contrast
+	to the experimental hypothesis, pleasant and unpleasant pictures
+	failed to affect attention to exogenous cues despite slowing overall
+	reaction times in comparison to neutral pictures. This null finding
+	was replicated in a further experiment where rate arousal was varied
+	within the pleasant and unpleasant picture groups. However, unpleasant
+	pictures produced more task interference than pleasant pictures and
+	highly arousing pictures produced more interference than pictures
+	rated low in arousal.},
+  institution = {Department of Psychology, University of Kent, UK. J.Tipples@psych.york.ac.uk},
+  keywords = {Adult; Arousal; Female; Functional Laterality; Humans; Male; Mental
+	Processes; Startle Reaction; Visual Perception},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {10717773},
+  timestamp = {2011.12.20}
+}
+
+@ARTICLE{Turchi2001,
+  author = {J. Turchi and M. Sarter},
+  title = {Antisense oligodeoxynucleotide-induced suppression of basal forebrain
+	NMDA-NR1 subunits selectively impairs visual attentional performance
+	in rats.},
+  journal = {Eur J Neurosci},
+  year = {2001},
+  volume = {14},
+  pages = {103--117},
+  number = {1},
+  month = {Jul},
+  abstract = {It is generally agreed that basal forebrain neuronal circuits contribute
+	to the mediation of the ability to detect, select and discriminate
+	signals, to suppress the processing of irrelevant information, and
+	to allocate processing resources to competing tasks. Rats were trained
+	in a task designed to assess sustained attention, or in a cued discrimination
+	task that did not tax attentional processes. Animals were equipped
+	with guide cannula to infuse bilaterally antisense oligodeoxynucleotides
+	(ODNs) against the N-methyl-D-aspartate (NMDA) NR1 subunits, or missense
+	ODNs, into the substantia innominata of the basal forebrain. Infusions
+	of antisense or missense ODNs did not affect cued visual discrimination
+	performance. Infusions of antisense ODNs dose-dependently impaired
+	sustained attention performance by selectively decreasing the animals'
+	ability to detect signals while their ability to reject nonsignal
+	trials remained unchanged. The detrimental attentional effects of
+	antisense infusions were maximal 24 h after the third and final infusion,
+	and performance returned to baseline 24 h later. Missense infusions
+	did not affect attentional performance. Separate experiments demonstrated
+	extensive suppression of NR1 subunit immunoreactivity in the substantia
+	innominata. Furthermore, infusions of antisense did not produce neurotoxic
+	effects in that region as demonstrated by the Fluoro-Jade METHOD:
+	The present data support the hypothesis that NMDA receptor (NMDAR)
+	stimulation in the basal forebrain, largely via glutamatergic inputs
+	originating in the prefrontal cortex, represents a necessary mechanism
+	to activate the basal forebrain corticopetal system for mediation
+	of attentional performance.},
+  institution = {Department of Psychology, The Ohio State University, 27 Townshend
+	Hall, Columbus, OH 43210, USA.},
+  keywords = {Animals; Attention, physiology; Basal Nucleus of Meynert, cytology/drug
+	effects/metabolism; Cues; Discrimination Learning, drug effects/physiology;
+	Fluorescent Dyes, pharmacokinetics; Immunohistochemistry; Male; Nerve
+	Degeneration, chemically induced/pathology; Neurons, cytology/drug
+	effects/metabolism; Oligodeoxyribonucleotides, Antisense, pharmacology;
+	Photic Stimulation; Psychomotor Performance, drug effects/physiology;
+	RNA, Messenger, drug effects/metabolism; Rats; Rats, Sprague-Dawley;
+	Receptors, N-Methyl-D-Aspartate, antagonists /&/ inhibitors/genetics/metabolism;
+	Time Factors; Visual Perception, drug effects/physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {ejn1610},
+  pmid = {11488954},
+  timestamp = {2011.12.19}
+}
+
+@ARTICLE{Viventi2011,
+  author = {Jonathan Viventi and Dae-Hyeong Kim and Leif Vigeland and Eric S
+	Frechette and Justin A Blanco and Yun-Soung Kim and Andrew E Avrin
+	and Vineet R Tiruvadi and Suk-Won Hwang and Ann C Vanleer and Drausin
+	F Wulsin and Kathryn Davis and Casey E Gelber and Larry Palmer and
+	Jan Van der Spiegel and Jian Wu and Jianliang Xiao and Yonggang Huang
+	and Diego Contreras and John A Rogers and Brian Litt},
+  title = {Flexible, foldable, actively multiplexed, high-density electrode
+	array for mapping brain activity in vivo.},
+  journal = {Nat Neurosci},
+  year = {2011},
+  volume = {14},
+  pages = {1599--1605},
+  number = {12},
+  abstract = {Arrays of electrodes for recording and stimulating the brain are used
+	throughout clinical medicine and basic neuroscience research, yet
+	are unable to sample large areas of the brain while maintaining high
+	spatial resolution because of the need to individually wire each
+	passive sensor at the electrode-tissue interface. To overcome this
+	constraint, we developed new devices that integrate ultrathin and
+	flexible silicon nanomembrane transistors into the electrode array,
+	enabling new dense arrays of thousands of amplified and multiplexed
+	sensors that are connected using fewer wires. We used this system
+	to record spatial properties of cat brain activity in vivo, including
+	sleep spindles, single-trial visual evoked responses and electrographic
+	seizures. We found that seizures may manifest as recurrent spiral
+	waves that propagate in the neocortex. The developments reported
+	here herald a new generation of diagnostic and therapeutic brain-machine
+	interface devices.},
+  doi = {10.1038/nn.2973},
+  institution = { Center for Neural Science, New York University, New York, New York,
+	USA. [3].},
+  language = {eng},
+  medline-pst = {epublish},
+  owner = {wang},
+  pii = {nn.2973},
+  pmid = {22081157},
+  timestamp = {2011.12.05},
+  url = {http://dx.doi.org/10.1038/nn.2973}
+}
+
+@ARTICLE{Ward2009,
+  author = {Ryan D Ward and Christoph Kellendonk and Eleanor H Simpson and Olga
+	Lipatova and Michael R Drew and Stephen Fairhurst and Eric R Kandel
+	and Peter D Balsam},
+  title = {Impaired timing precision produced by striatal D2 receptor overexpression
+	is mediated by cognitive and motivational deficits.},
+  journal = {Behav Neurosci},
+  year = {2009},
+  volume = {123},
+  pages = {720--730},
+  number = {4},
+  month = {Aug},
+  abstract = {Increased striatal dopamine D2 receptor activity is thought to contribute
+	to the pathophysiology of schizophrenia. To model this condition
+	in mice, Kellendonk et al. (2006) generated transgenic mice that
+	selectively overexpress the D2 receptor in striatum (D2OE). Drew
+	et al. (2007) reported that D2OE mice display deficits in interval
+	timing and motivation. The present study further explored the impaired
+	timing in D2OE mice. Experiment 1 assessed the role of motivation
+	in producing timing deficits in the peak procedure and found that
+	performance in D2OE mice was improved by increasing motivation. In
+	addition, performance was impaired in control mice when motivation
+	was decreased. In Experiment 2, we found that D2OE mice have no timing
+	impairment when tested using the bisection task, a procedure in which
+	the measure of timing performance is less influenced by motivation
+	to respond. In Experiment 3, we also used the bisection task and
+	found selective impairment in timing of long durations in D2OE mice.
+	These results suggest that striatal D2 overexpression impairs timing
+	by decreasing motivation and through its impact on working memory
+	and/or sustained attention.},
+  doi = {10.1037/a0016503},
+  institution = {Department of Psychiatry, Columbia University, NY State Psychiatric
+	Institute, 1051 Riverside Drive, New York, NY 10032, USA.},
+  keywords = {Analysis of Variance; Animals; Cognition, physiology; Corpus Striatum,
+	physiology; Female; Genotype; Humans; Mice; Mice, Transgenic; Motivation;
+	Neuropsychological Tests; Reaction Time; Receptors, Dopamine D2,
+	genetics/metabolism; Time Factors; Time Perception, physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {2009-10928-002},
+  pmid = {19634929},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1037/a0016503}
+}
+
+@ARTICLE{Weaver2009,
+  author = {Bruce Weaver and Michel Bédard and Jim McAuliffe and Marie Parkkari},
+  title = {Using the Attention Network Test to predict driving test scores.},
+  journal = {Accid Anal Prev},
+  year = {2009},
+  volume = {41},
+  pages = {76--83},
+  number = {1},
+  month = {Jan},
+  abstract = {Driving is a complex multi-factorial task that taps underlying mechanisms
+	of cognition and attention. Not surprisingly, therefore, many tests
+	of cognition and attention are significantly associated with driving
+	outcomes. In this article, we introduce driving researchers and clinicians
+	with an interest in driving to the Attention Network Test (ANT),
+	which to our knowledge has not previously been used in driving research.
+	It is a recently developed test that is based on a neural network
+	model of the human attention system. It combines elements of Posner's
+	cuing paradigm [Posner, M.I., 1980. Orienting of attention. Quarterly
+	Journal of Experimental Psychology 32, 3-25.] with the Eriksen &
+	Eriksen flanker task [Eriksen, B.A., Eriksen, C.W., 1974. Effects
+	of noise letters upon the identification of a target letter in a
+	nonsearch task. Perception & Psychophysics 16, 143-149.], and provides
+	measures of three distinct functions of attention: alerting, orienting,
+	and executive function. Our results demonstrate that the ANT has
+	very good concurrent validity with the Useful Field of View (UFOV),
+	and that it is comparable to UFOV in its ability to predict road
+	test scores for a simulated drive. These findings suggest that further
+	investigation of the usefulness of the ANT as a tool for driving
+	researchers and clinicians is merited.},
+  doi = {10.1016/j.aap.2008.09.006},
+  institution = { Canada. bweaver@lakeheadu.ca},
+  keywords = {Adolescent; Adult; Aged; Aged, 80 and over; Attention, physiology;
+	Automobile Driving, standards/statistics /&/ numerical data; Cognition;
+	Computer Simulation; Female; Humans; Male; Middle Aged; Models, Psychological;
+	Nerve Net; Neuropsychological Tests; Ontario; Young Adult},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0001-4575(08)00185-1},
+  pmid = {19114140},
+  timestamp = {2011.12.20},
+  url = {http://dx.doi.org/10.1016/j.aap.2008.09.006}
+}
+
+@ARTICLE{Wise1988,
+  author = {S. P. Wise and R. Desimone},
+  title = {Behavioral neurophysiology: insights into seeing and grasping.},
+  journal = {Science},
+  year = {1988},
+  volume = {242},
+  pages = {736--741},
+  number = {4879},
+  month = {Nov},
+  abstract = {One marvels at a batter's ability to hit a baseball traveling at 150
+	kilometers per hour or a monkey's skill in snatching a flying insect.
+	Indeed, the ability of many animals to reach out, grasp, and manipulate
+	objects is a feat of biological engineering unmatched by even state-of-the-art
+	robots. But how are the objects of our attention chosen and how are
+	the eyes and hands directed to it? Recent progress in behavioral
+	neurophysiology has clarified some of the brain mechanisms at work.},
+  file = {Wise1988.pdf:Wise1988.pdf:PDF},
+  institution = {Laboratory of Neurophysiology, National Institute of Mental Health,
+	Poolesville, MD 20837.},
+  keywords = {Animals; Attention, physiology; Behavior, Animal, physiology; Cerebral
+	Cortex, physiology; Learning, physiology; Motor Cortex, physiology;
+	Motor Skills, physiology; Nerve Net, physiology; Nervous System Physiological
+	Phenomena; Neurons, physiology; Neurophysiology; Visual Perception,
+	physiology},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pmid = {3187520},
+  timestamp = {2011.12.05}
+}
+
+@ARTICLE{Wolf2009,
+  author = {Kerstin Wolf and Daniel Ebeling and Notger G Müller},
+  title = {The effects of implicit attentional learning and habituation on inhibition
+	of return.},
+  journal = {Atten Percept Psychophys},
+  year = {2009},
+  volume = {71},
+  pages = {26--41},
+  number = {1},
+  month = {Jan},
+  abstract = {In two experiments, the effects of implicit attentional learning and
+	habituation on inhibition of return (IOR) were assessed. Experiment
+	1 consisted of an informative variant of the spatial cuing paradigm
+	(Posner, 1980), with the target appearing most often at the location
+	next to the cue. Short-term as well as long-term learning of the
+	regularities could be observed. This learning took place even though
+	the participants were not able to verbalize the learned information,
+	suggesting that the learning was implicit. By spatially separating
+	the effects of implicit learning and IOR, we demonstrated that the
+	magnitude of IOR slightly decreased because of long-term implicit
+	orienting. In Experiment 2, a noninformative variant of the spatial
+	cuing paradigm, IOR was still found to decrease over the course of
+	the experiment. This suggests that habituation due to the mere repeated
+	initiation of IOR also affects the magnitude of the IOR. This theory
+	is supported by the finding that IOR recovered after short breaks
+	in Experiment 2. However, habituation presumably only played a secondary
+	role in Experiment 1. In sum, IOR was abolished by neither implicit
+	attentional learning nor habituation. Here, the finding that IOR
+	is not easily replaced by implicitly learned orienting clearly indicates
+	that IOR is a powerful, low-level mechanism. We discuss implications
+	of these results for the debate on the function of IOR.},
+  doi = {10.3758/APP.71.1.26},
+  institution = {Johann Wolfgang Goethe University, Frankfurt am Main, Germany.},
+  keywords = {Adult; Association Learning; Attention; Cues; Female; Fixation, Ocular;
+	Habituation, Psychophysiologic; Humans; Inhibition (Psychology);
+	Male; Orientation; Pattern Recognition, Visual; Reaction Time; Set
+	(Psychology); Young Adult},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {71/1/26},
+  pmid = {19304594},
+  timestamp = {2011.12.20},
+  url = {http://dx.doi.org/10.3758/APP.71.1.26}
+}
+
+@ARTICLE{Yeshurun2008,
+  author = {Yaffa Yeshurun and Barbara Montagna and Marisa Carrasco},
+  title = {On the flexibility of sustained attention and its effects on a texture
+	segmentation task.},
+  journal = {Vision Res},
+  year = {2008},
+  volume = {48},
+  pages = {80--95},
+  number = {1},
+  month = {Jan},
+  abstract = {Previously we have shown that transient attention--the more automatic,
+	stimulus-driven component of spatial attention--enhances spatial
+	resolution. Specifically, transient attention improves texture segmentation
+	at the periphery, where spatial resolution is too low, but impairs
+	performance at central locations, where spatial resolution is already
+	too high for the task. In the present study we investigated whether
+	sustained attention--the more controlled component of spatial attention-can
+	also affect texture segmentation, and if so whether its effect will
+	be similar to that of transient attention. To that end we combined
+	central, symbolic cues with texture displays in which the target
+	appears at several eccentricities. We found that sustained attention
+	can also affect texture segmentation, but unlike transient attention,
+	sustained attention improved performance at all eccentricities. Comparing
+	the effect of pre-cues and post-cues indicated that the benefit brought
+	about by sustained attention is significantly greater than the effect
+	of location uncertainty reduction. These findings indicate that sustained
+	attention is a more flexible mechanism that can optimize performance
+	at all eccentricities in a task where performance is constrained
+	by spatial resolution.},
+  doi = {10.1016/j.visres.2007.10.015},
+  institution = { Institute of Information Processing and Decision Making, University
+	of Haifa, Haifa 31905, Israel. yeshurun@research.haifa.ac.il},
+  keywords = {Attention, physiology; Cues; Field Dependence-Independence; Fixation,
+	Ocular, physiology; Humans; Pattern Recognition, Visual, physiology;
+	Photic Stimulation, methods; Psychophysics; Reaction Time},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {S0042-6989(07)00470-1},
+  pmid = {18076966},
+  timestamp = {2011.12.19},
+  url = {http://dx.doi.org/10.1016/j.visres.2007.10.015}
+}
+
+@ARTICLE{Yu2011,
+  author = {Shan Yu and Hongdian Yang and Hiroyuki Nakahara and Gustavo S Santos
+	and Danko Nikolic and Dietmar Plenz},
+  title = {Higher-Order Interactions Characterized in Cortical Activity.},
+  journal = {J Neurosci},
+  year = {2011},
+  volume = {31},
+  pages = {17514--17526},
+  number = {48},
+  month = {Nov},
+  abstract = {In the cortex, the interactions among neurons give rise to transient
+	coherent activity patterns that underlie perception, cognition, and
+	action. Recently, it was actively debated whether the most basic
+	interactions, i.e., the pairwise correlations between neurons or
+	groups of neurons, suffice to explain those observed activity patterns.
+	So far, the evidence reported is controversial. Importantly, the
+	overall organization of neuronal interactions and the mechanisms
+	underlying their generation, especially those of high-order interactions,
+	have remained elusive. Here we show that higher-order interactions
+	are required to properly account for cortical dynamics such as ongoing
+	neuronal avalanches in the alert monkey and evoked visual responses
+	in the anesthetized cat. A Gaussian interaction model that utilizes
+	the observed pairwise correlations and event rates and that applies
+	intrinsic thresholding identifies those higher-order interactions
+	correctly, both in cortical local field potentials and spiking activities.
+	This allows for accurate prediction of large neuronal population
+	activities as required, e.g., in brain-machine interface paradigms.
+	Our results demonstrate that higher-order interactions are inherent
+	properties of cortical dynamics and suggest a simple solution to
+	overcome the apparent formidable complexity previously thought to
+	be intrinsic to those interactions.},
+  doi = {10.1523/JNEUROSCI.3127-11.2011},
+  institution = {Section on Critical Brain Dynamics, Laboratory of Systems Neuroscience,
+	National Institute of Mental Health, Bethesda, Maryland 20892-9663,
+	Biophysics Program, Institute for Physical Science and Technology,
+	University of Maryland, College Park, Maryland, 20742, Laboratory
+	for Integrated Theoretical Neuroscience, RIKEN Brain Science Institute,
+	Wako City, Saitama 351-0198 Japan, Department of Computational Intelligence
+	and Systems Science, Tokyo Institute of Technology, Midori-ku Yokohama,
+	Kanagawa 226-8503 Japan, Department of Neurophysiology, Max Planck
+	Institute for Brain Research, 60528 Frankfurt am Main, Germany, Frankfurt
+	Institute for Advanced Studies, Johann Wolfgang Goethe University,
+	60325 Frankfurt am Main, Germany.},
+  language = {eng},
+  medline-pst = {ppublish},
+  owner = {wang},
+  pii = {31/48/17514},
+  pmid = {22131413},
+  timestamp = {2011.12.05},
+  url = {http://dx.doi.org/10.1523/JNEUROSCI.3127-11.2011}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
+@comment{jabref-meta: groupsversion:3;}
+
+@comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 ExplicitGroup:Brain Energy Use\;0\;Attwell2001\;;
+1 ExplicitGroup:Attention\;0\;Golla2004\;Hayden2005\;Lee1997\;Mukai201
+1\;;
+2 ExplicitGroup:review\;0\;Egeth1997\;Harris2011\;Klein2009\;Posner198
+0a\;Posner1990\;;
+2 ExplicitGroup:SC\;0\;Fecteau2004f\;Fecteau2005\;;
+2 ExplicitGroup:MT\;0\;Busse2008\;;
+2 ExplicitGroup:Inhibition of return\;0\;Klein2000\;;
+2 ExplicitGroup:bottom up\;0\;Barbot2011\;Eckstein2002\;Ling2006\;Pest
+illi2005\;;
+1 ExplicitGroup:sparse coding\;0\;Barlow1972\;;
+1 ExplicitGroup:Correlation analysis\;0\;Kohn2005\;Smith2008\;;
+1 ExplicitGroup:Spontaneous Activity\;0\;Arieli1996\;;
+1 ExplicitGroup:Method\;0\;Metha2001a\;;
+1 ExplicitGroup:perceptual learning\;0\;Shibata2011\;;
+}
+

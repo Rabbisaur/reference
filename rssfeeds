@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>周三 5月 27 20:08:59 2015</dateModified>
+    </head>
+    <body>
+        <outline text="Neuroscince">
+            <outline text="Annual Reviews: Annual Review of Neuroscience: Table of Contents" type="rss" htmlUrl="http://www.annualreviews.org/loi/neuro?ai=s2&amp;mi=3fndc3&amp;af=R" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=s2&amp;jc=neuro&amp;type=etoc&amp;feed=rss"/>
+            <outline text="Nature - Issue - nature.com science feeds" type="rss" htmlUrl="http://www.nature.com/nature/current_issue/" xmlUrl="http://feeds.nature.com/nature/rss/current"/>
+            <outline text="Nature Neuroscience - Issue - nature.com science feeds" type="rss" htmlUrl="http://www.nature.com/neuro/current_issue/" xmlUrl="http://feeds.nature.com/neuro/rss/current"/>
+            <outline text="Nature Reviews Neuroscience - Issue - nature.com science feeds" type="rss" htmlUrl="http://www.nature.com/nrn/current_issue/" xmlUrl="http://feeds.nature.com/nrn/rss/current"/>
+            <outline text="Nature Neuroscience - AOP - nature.com science feeds" type="rss" htmlUrl="http://www.nature.com/neuro/current_issue/" xmlUrl="http://feeds.nature.com/neuro/rss/aop"/>
+            <outline text="Nature China - nature.com science feeds" type="rss" htmlUrl="http://www.nature.com/nchina/current_issue/" xmlUrl="http://feeds.nature.com/nchina/rss/update"/>
+            <outline text="Neuron" type="rss" htmlUrl="http://www.cell.com/archive?publicationCode=neuron&amp;rss=yes" xmlUrl="http://www.cell.com/neuron/current.rss"/>
+            <outline text="Trends in Cognitive Sciences" type="rss" htmlUrl="http://www.sciencedirect.com" xmlUrl="http://rss.sciencedirect.com/publication/science/13646613"/>
+            <outline text="Trends in Neurosciences" type="rss" htmlUrl="http://www.sciencedirect.com" xmlUrl="http://rss.sciencedirect.com/publication/science/01662236"/>
+            <outline text="The EMBO Journal recent issues" type="rss" htmlUrl="http://emboj.embopress.org" xmlUrl="http://emboj.embopress.org/rss/recent.xml"/>
+            <outline text="ScienceDirect Publication: Current Opinion in Neurobiology" type="rss" htmlUrl="http://www.sciencedirect.com" xmlUrl="http://rss.sciencedirect.com/publication/science/09594388"/>
+            <outline text="Journal of Neuroscience recent issues" type="rss" htmlUrl="http://www.jneurosci.org" xmlUrl="http://www.jneurosci.org/rss/recent.xml"/>
+            <outline text="Progress in Neurobiology" type="rss" htmlUrl="http://www.sciencedirect.com" xmlUrl="http://rss.sciencedirect.com/publication/science/03010082"/>
+            <outline text="Cerebral Cortex - recent issues" type="rss" htmlUrl="http://cercor.oxfordjournals.org" xmlUrl="http://cercor.oxfordjournals.org/rss/recent.xml"/>
+            <outline text="Journal of Cognitive Neuroscience" type="rss" htmlUrl="" xmlUrl="http://www.mitpressjournals.org/action/showFeed?ui=0&amp;mi=62ewsv&amp;ai=t1&amp;jc=jocn&amp;type=etoc&amp;feed=rss"/>
+            <outline text="Human Brain Mapping" type="rss" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291097-0193" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1097-0193"/>
+            <outline text="NeuroImage" type="rss" htmlUrl="http://www.sciencedirect.com" xmlUrl="http://rss.sciencedirect.com/publication/science/10538119"/>
+            <outline text="Learning &amp; Memory current issue" type="rss" htmlUrl="http://learnmem.cshlp.org" xmlUrl="http://learnmem.cshlp.org/rss/current.xml"/>
+            <outline text="Journal of Neurophysiology recent issues" type="rss" htmlUrl="http://jn.physiology.org" xmlUrl="http://jn.physiology.org/rss/recent.xml"/>
+            <outline text="PLOS Computational Biology: New Articles" type="rss" htmlUrl="http://feeds.plos.org/~r/ploscompbiol/NewArticles/~3/xCeSsJP2dOg/info%3Adoi%2F10.1371%2Fjournal.pcbi.1004261" xmlUrl="http://feeds.plos.org/ploscompbiol/NewArticles?format=xml"/>
+            <outline text="Current Opinion in Neurology - Current Issue" type="rss" htmlUrl="http://journals.lww.com/co-neurology/pages/currenttoc.aspx" xmlUrl="http://journals.lww.com/co-neurology/_layouts/OAKS.Journals/feed.aspx?FeedType=CurrentIssue"/>
+            <outline text="European Journal of Neuroscience" type="rss" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291460-9568" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1460-9568"/>
+            <outline text="Journal of Comparative Neurology" type="rss" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291096-9861" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1096-9861"/>
+            <outline text="Neurobiology of Learning and Memory" type="rss" htmlUrl="http://www.sciencedirect.com" xmlUrl="http://rss.sciencedirect.com/publication/science/10747427"/>
+            <outline text="Science: Current Issue" type="rss" htmlUrl="http://www.sciencemag.org" xmlUrl="http://www.sciencemag.org/rss/current.xml"/>
+            <outline text="Current Biology" type="rss" htmlUrl="http://www.cell.com/archive?publicationCode=curbio&amp;rss=yes" xmlUrl="http://www.cell.com/current-biology/current.rss"/>
+        </outline>
+        <outline text="Pop Science">
+            <outline text="Scientific American - nature.com science feeds" type="rss" htmlUrl="http://www.nature.com/scientificamerican/current_issue/" xmlUrl="http://feeds.nature.com/scientificamerican/rss/current"/>
+            <outline text="Scientific American Mind - nature.com science feeds" type="rss" htmlUrl="http://www.nature.com/scientificamericanmind/current_issue/" xmlUrl="http://feeds.nature.com/scientificamericanmind/rss/current"/>
+        </outline>
+    </body>
+</opml>
